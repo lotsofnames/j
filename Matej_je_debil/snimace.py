@@ -10,5 +10,6 @@ for slovo in slova:
         st.subheader(slovo.replace("#", ""))
     elif slovo.startswith("/"):
         st.image(f"{slovo.replace("/","").strip()}.png")
+
     else:
         st.write(slovo)
