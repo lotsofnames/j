@@ -1,15 +1,16 @@
 #Indukčné snímače
 import streamlit
 from word import file
+import os
 st=streamlit
 #st.link_button("Indukčné snímače","https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1")
-
+base = os.path.dirname(__file__)
 slova=file("IS.txt")
 for slovo in slova:
     if slovo.startswith("#"):
         st.subheader(slovo.replace("#", ""))
     elif slovo.startswith("/"):
-        st.image(f"{slovo.replace("/","").strip()}.png")
-
+        image_path = os.path.join(base, f"{slovo.replace('/', '').strip()}.png")
+        st.image(image_path)
     else:
         st.write(slovo)
