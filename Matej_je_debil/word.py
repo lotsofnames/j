@@ -1,6 +1,8 @@
-
+import os
 
 def file(z):
+    base = os.path.dirname(__file__)  # cesta ku snimace.py
+    path = os.path.join(base, z)  # cesta k súboru IS.txt
     slova=[]
     with open(z,"r",encoding="utf-8") as fill:
         fill = fill.readlines()
