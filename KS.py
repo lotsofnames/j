@@ -3,11 +3,11 @@ import funkcion.slovo
 
 
 base = os.path.dirname(__file__)
-base=base+"\\"+"KS"
-print(base)
+base = os.path.join(base, "KS")
+# print(base)
 
 paths = os.path.join(base, "KS.txt")
-print(paths)
+# print(paths)
 
 
-funkcion.slovo.main(base,paths)
+funkcion.slovo.main(base, paths)

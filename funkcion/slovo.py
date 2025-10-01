@@ -1,12 +1,15 @@
-#Indukčné snímače
+# Indukčné snímače
 import streamlit
 from funkcion.word import file
 import os
 from pathlib import Path
-st=streamlit
-#st.link_button("Indukčné snímače","https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1")
-def main(base,path):
-    slova=file(path)
+
+st = streamlit
+
+
+# st.link_button("Indukčné snímače","https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1")
+def main(base, path):
+    slova = file(path)
     for slovo in slova:
         if slovo.startswith("#"):
             st.subheader(slovo.replace("#", ""))
