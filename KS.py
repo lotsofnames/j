@@ -1,0 +1,13 @@
+import os
+import funkcion.slovo
+
+
+base = os.path.dirname(__file__)
+base=base+"\\"+"KS"
+print(base)
+
+paths = os.path.join(base, "KS.txt")
+print(paths)
+
+
+funkcion.slovo.main(base,paths)
