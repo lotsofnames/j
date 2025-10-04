@@ -18,6 +18,10 @@ st.link_button(
     "https://lotsofnames-j-ms-yuipbp.streamlit.app/#magneticke-snimace"
 )
 st.link_button(
+    "Optické snímače",
+    "https://lotsofnames-j-os-kihfbl.streamlit.app/#opticke-snimace"
+)
+st.link_button(
     "Rickrolling",
     "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
 )
