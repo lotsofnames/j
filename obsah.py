@@ -2,15 +2,20 @@ import streamlit
 from MS import MS
 from KS import KS
 from IS import IS
+from OS import OS
 st = streamlit
 st.title("Obsah")
 st.link_button(
     "Indukčné snímače",
-    "https://hhb69am89khxtkmdpxcdnv.streamlit.app/#indukcne-snimace"
+    "https://lotsofnames-j-is-k3unmc.streamlit.app/#indukcne-snimace"
 )
 st.link_button(
     "Kapacitné snímače",
     "https://lotsofnames-j-ks-sem2e3.streamlit.app/#kapacitne-snimace",
+)
+st.link_button(
+    "Magnetické snímače",
+    "https://lotsofnames-j-ms-yuipbp.streamlit.app/#magneticke-snimace"
 )
 st.link_button(
     "Rickrolling",
