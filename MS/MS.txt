@@ -1,0 +1,117 @@
+# Magnetické snímače
+Medzi základné senzory priblíženia dnes patria aj magnetické snímače. V niektorých prípadoch na prvý pohľad vyzerajú rovnako ako indukčné snímače, ale umožňujú detekovať objekt aj cez nemagnetické kovové materiály (hliník, zlato a pod.). Majú relatívne veľký dosah a malé rozmery.
+Magnetické snímače slúžia všeobecne na bezdotykovú a bez opotrebenia prebiehajúcu detekciu polôh v riadiacej technike. Sú používané všade tam, kde už induktívne senzory z hľadiska spínacích vzdialeností nestačia, pretože proti nim ponúkajú podstatne dlhšie spínacie vzdialenosti pri rovnakých alebo aj menších rozmeroch snímača. Ďalšou ich výhodou je použitie len magnetizmu. Magnetické polia totiž prechádzajú všetkými nemagnetickými materiálmi, a tak môžu tieto senzory rozpoznávať magnety, ktoré sú umiestnené napr. za stenami z farebných kovov, ušľachtilej ocele, hliníka, umelých hmôt alebo dreva. Pod všeobecným označením "magnetický senzor" sa však skrýva z pohľadu princípu jeho funkcie hneď niekoľko možných prevedeniach vykazujúcich úplne odlišný systém funkcie a tým aj odlišné niektoré prevádzkové vlastnosti:
+-Magneticko-mechanický (historický) Reedov senzor
+-Senzory s nasycovaným jadrom cievky = magnetoindukčné
+-Senzory s Hallovou sondou
+-Magnetorezistívne sondy
+/img
+
+Obr.1 Schematická značka
+V priemyselnej praxi sa potom využívajú všetky princípy asi rovnako často, pričom prvý spomínaný princíp je ten najjednoduchší a využívaný pre málo náročné aplikácie, zatiaľ čo druhý spomínaný je z nich najsofistikovanejšie vyžadujúce použitie elektroniky, ale poskytuje obvykle aj najlepšie detekčné vlastnosti.
+
+
+
+
+
+
+
+/img_1
+
+Obr.2Porovnanie spínacej charakteristiky: a) magnetoindukčného senzora, b) ac) senzora s jazýčkovým relé (Reedov senzor).
+Príklady použitia
+Magnetické senzory priblíženia je možné použiť v mnohých aplikáciách, ako napríklad:
+1. Identifikácia objektu cez nádobu z umelej hmoty.
+2.Identifikácia objektu v agresívnom prostredí cez teflónovú stenu.
+3.Identifikácia objektu v oblasti vysokých teplôt.
+4.Rozpoznanie daného magnetu prostredníctvom kódovania.
+5.V elektromechanických, žeriavových, manipulačných systémoch.
+6.Meranie otáčok, detekcia natočenia a otáčania (veľmi rýchlo reagovať na zmenu stavu).
+7.Meranie limitov, hladín, polohy a pod.
+8.Indikáciu polohy v oblasti vysokých teplôt - magnetické pole je možné prenášať magnetickými vodičmi a vlastnú indikáciu vykonávať zo vzdialených miest.
+9.Snímanie polôh pneumatických a hydraulických valcov.
+Klasický Reedov magnetický senzor priblíženia
+Najjednoduchšie prevedenie, ktoré sa však stále bežne využíva v jednoduchých polohovacích aplikáciách (napríklad pri dverných spínačoch alebo menej náročnej detekcii pozície valcov a pod.), je založené na tzv. Reedovom princípe. Jwswe tvorený flexibilným jazýčkovým kontaktom, ktorý sa skladá z dvoch feromagnetických jazýčkov uložených v sklenenej žiarovkovej banke s inertným plynom. Kontakty sú citlivé na vplyvy magnetických polí, ktoré sú vytvárané magnetmi, cievkami alebo v jeho blízkosti prechádzajúcim elektrickým prúdom. Elektrickou indukciou od priloženého magnetického poľa sa vytvára vo feromagnetickom materiáli jazýčkov opačná magnetická polarita, ktoré svojimi protikladnými pólmi jazýčky pritiahne a vytvorí tak elektricky vodivé spojenie kontaktov. Po odstránení magnetického poľa sa jazýčky vrátia do svojej východiskovej rozpojenej pozície, teda rozopnutiu kontaktov. Povrch kontaktov je potiahnutý kvalitným materiálom (zlato, ródium, volfrám), ktorý podľa zvoleného povlaku umožňuje napájanie nízkonapäťových obvodov alebo vedenie silne indukčnej záťaže. Tak je možné spínať napätie v rozsahu 10-30V DC alebo 20-240V AC. A práve možnosť priameho spínania aj napätia až 250 VAC pri celkových rozmeroch senzora len niekoľko milimetrov je hlavná praktická výhoda ich použitia v priemysle.
+
+
+
+
+
+
+
+/img_2
+
+Obr.3Reedov magnetický senzor priblíženia
+
+
+/img_3
+
+Obr.4Tradičný "historický" princíp magnetického senzora priblíženia - Reedov senzor.
+/img_4
+Obr.5 Princíp jazýčkového magnetického senzora s indikačnou LED pre pneumatické valce Festo.
+Spínacia vzdialenosť závisí od používaného magnetu, maximálne však 10 cm. Nemagnetické a neželezné materiály, ktoré sú umiestnené medzi senzor a magnet, neovplyvňujú jeho funkciu. Ak je senzor nainštalovaný na železnom povrchu, ktorý rozptyľuje magnetické prúdenie, je pri inštalácii nevyhnutné vkladať vhodné nemagnetické medzerníky. Reedov princíp sa vyznačuje spínacou frekvenciou až stovky Hz a pomerne dlhou životnosťou kontaktov (desiatky až stovky miliónov operácií). Hlavnou nevýhodou je potom vykazovanie tzv. opakovaného spínania, kedy pri úplnom horizontálnom prejdení magnetu okolo snímača dôjde k niekoľkonásobnému zopnutiu (viď obrázok spínacích charakteristík uvedený vyššie).
+/img_5
+Obr.6Obvyklý princíp spínania - NO (NormallyOpen) alebo NO/NC (NC = NormallyClosed) a prevedenie aj s indikačnou LED.
+/img_6
+Obr.7Ukážka priemyselných prevedení Reedovho senzora - zľava valcové, dverové a pre T-držiaku pneumatických valcov.
+Magnetoindukčné senzory priblíženia = senzory s nasycovaným jadrom cievky
+Z pohľadu praktického používania relatívne novým princípom, ktorý bolo možné použiť až so zvládnutím technológie amorfného kovu, sú magnetické senzory s nasycovaným jadrom cievky. Kompletný senzor v priemyselnom prevedení sa potom obvykle nazýva ako magnetoindukčný alebo jednoducho magnetický senzor.
+Magnetoindukčný senzor priblíženia vo valcovom prevedení obsahuje podobné vnútorné elektrické bloky ako indukčný senzor. Hlavný rozdiel je prakticky iba v snímači, resp. prevedenie cievky a jej jadra. Všeobecne teda vnútorné zapojenie senzora obsahuje niekoľko za seba radených blokov elektrických obvodov:
+-Snímač tvorený cievkou s jadrom s veľkou permeabilitou (Coil)
+-Oscilátor (Oscilátor)
+-Vyhodnocovacie obvody (EvaluationCircuit)
+-Koncový stupeň (Output Circuit)
+/img_7
+
+Obr.8Radenie blokov vo vnútri bežného valcového senzora.
+
+Snímač magnetického senzora, ako už názov napovedá, využíva magnetické pole vytvorené v magnete. Magnetické siločiary prebiehajú od severného pólu južnému. Priblížením oceľovej doštičky (clonky) k magnetu, spôsobí deformáciu magnetických siločiar. Na rozhraní dvoch materiálov s rozdielnou permeabilitou sa siločiary (v prípade, že nejdú kolmo) lámu. Pomocou feromagnetických predmetov sa tak dajú siločiary nasmerovať podľa potreby.
+Konkrétne je princíp snímača s nasycovaným jadrom (magnetoindukčného senzora) tvorený jadrom cievky z amorfného kovu. Tento materiál vykazuje voči obvyklým kryštalickým zliatinám veľmi vysokú permeabilitu (až 500 000), nepatrnú koercitívnu silu, nízke hysterézie straty a straty vírivými prúdmi. Voči Hallovým a magnetorezistívnym sondám majú vyššiu citlivosť.
+Indukčnosť celej cievky je potom závislá na reverzibilnej permeabilite jadra. Ak je teda cievka budená striedavým prúdom konštantnej amplitúdy, ktorý vyvolá rozkmit intenzity magnetického poľa H okolo pracovného bodu, potom pôsobením vonkajšieho magnetického poľa dôjde k posunu bodu na magnetizačnej krivke. Dôsledkom je zníženie permeability a tým aj indukčnosti cievky. Mierou intenzity mag. pole je potom meraný úbytok napätia na cievke alebo, ako v prípade indukčných senzorov, zmena kmitočtu a amplitúdy signálu generovaného oscilátorom, ktorého je cievka snímača súčasťou.
+
+
+
+/img_8
+
+Obr.9Magnetoindukčný princíp senzora použitý na detekciu pozície piestu valca uzavretého v hliníkovom alebo nerezovom valci.
+Každý indukčný senzor priblíženia vždy popisuje v katalógovom liste niekoľko dôležitých základných údajov:
+1.Napájacie napätie (Supplyvoltage) - rozsah napätia ktorým je snímač napájaný, pri ktorom je zaručená jeho správna činnosť.
+2.Pokojový prúd (Continuouscurrent) - prúd, ktorý snímač odoberá zo zdroja pri max. napájacom napätí.
+3.Spínací prúd (Switchingcurrent) - maximálny prúd, ktorý je možné odoberať z výstupu.
+4.Snímacia vzdialenosť/rozsah (Sensingrange Sn) - vzdialenosť od čela snímača, v ktorom bude vyhodnotená prítomnosť magnetu. Táto hodnota je vždy závislá na použitom magnete.
+5.Výstupná spínacia funkcia (Output function) - definuje typ spínania výstupu senzora (NO=Normallyopen, NC=Normallyclose)
+6.Hysterézia (Hysteresis H) - rozdiel medzi bodom zopnutia a bodom rozopnutia.
+7.Spínacia frekvencia (Max. switchingfrequency) - maximálny počet zopnutí za sekundu.
+/img_9
+Obr.10Princíp detekcie magnetoindukčného senzora.
+Funkcia magnetických senzorov priblíženia závisí ešte od polarizácie magnetu. Pozor na variant s dvoma spínacími bodmi. Pozdĺžna magnetizácia vyvolá jeden spínací bod a priečna magnetizácia dva body.
+Prevedenie magnetických senzorov je opäť podobné prevedeniu ostatných senzorov priblíženia, aby bolo možné použiť rovnaké prevedenie držiakov alebo otvorov, prípadne aj pripojenie.
+Z pohľadu tvarového prevedenia senzora sa tu objavuje ako prevedenie kvádrové s rôznymi rozmermi, tak aj valcové prevedenie. Napríklad výrobky firmy SICK majú často rozmery 10.3 x 16 x 37 mm. V prípade valcového prevedenia sa obvykle používa rozmerov M8, M10 alebo M12. Magnetoindukčné senzory sa vyrábajú s vysokou mechanickou ochranou proti vode i prachu, IP65 až IP67.
+/img_10
+Obr.11Príklady prevedenia kvádrového a valcového magnetoindukčného senzora firmy SICK.
+Z pohľadu elektrických vlastností, snímač je obvykle konštruovaný pre napojenie do obvodov s napájaním v základnom rozsahu 10 - 30 V DC (jednosmerných), pri vybraných typoch 20 - 60 V alebo 22 - 250 V AC (striedavých). Vyrába sa obvykle v dvoch typoch vývodov:
+-pre vývod je použitý kábel dĺžky obvykle 2m.
+-pre vývod je použitý konektor
+Podľa typu spínania záťaže pri detekovanom priblížení kovového predmetu je možné aj magnetické senzory, rovnako ako ostatné senzory priblíženia, rozdeliť na NPN a PNP. Okrem toho sa ale tiež uvádza ďalšie označenie: NO (NormallyOpen) a NC (NormallyClose), príp. NO/NC. Uvedené označenie prakticky definuje, aký stav zopnutia na kontaktoch bude v okamihu pripojenia napájania, bez prítomnosti detekovaného magnetu (magnetického poľa).
+/img_11
+Obr.12Príklad PNP a NPN spínaného výstupu.
+
+
+
+
+
+Ceny magnetických snímačov
+/img_12
+"REED senzor magnetického poľa;https://techfun.sk/produkt/reed-senzor-magnetickeho-pola/" 1,30€/ks
+/img_13
+"IM08-04NPS-ZTK SICK;https://www.tme.eu/sk/details/im08-04nps-ztk/indukcne-senzory-valcove-dc/sick/" 99,14€/ks
+/img_14
+"D-A93L, magnetický snímač, do C drážky, kabel 3m SMC;https://eshop.technoline.cz/magneticke-snimace-smc/396968-d-a93l-magneticky-snimac-do-c-drazky-kabel-3m-smc" 18,00€/ks
+
+
+
+
+
+
+
+

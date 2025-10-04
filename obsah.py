@@ -1,5 +1,7 @@
 import streamlit
-
+from MS import MS
+from KS import KS
+from IS import IS
 st = streamlit
 st.title("Obsah")
 st.link_button(

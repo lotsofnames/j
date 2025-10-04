@@ -1,14 +1,14 @@
 import os
 import funkcion.slovo
 
-def KS():
+def MS():
     base = os.path.dirname(__file__)
-    base = os.path.join(base, "KS")
+    base = os.path.join(base, "MS")
     # print(base)
 
-    paths = os.path.join(base, "KS.txt")
+    paths = os.path.join(base, "MS.txt")
     # print(paths)
 
 
     funkcion.slovo.main(base, paths)
-KS()
+MS()

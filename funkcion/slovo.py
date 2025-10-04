@@ -19,10 +19,10 @@ def main(base, path):
             image_path = os.path.join(base, f"{slovo.replace('/', '').strip()}.png")
             st.image(image_path)
         elif '"' in slovo:
-            i = re.search(r'"(.+),(.+)"', slovo)
+            i = re.search(r'"(.+);(.+)"', slovo)
             if i:
                 st.page_link(i.group(2), label=i.group(1))
-            sub = slovo.replace(i.group(0), "")
-            st.write(sub)
+                sub = slovo.replace(i.group(0), "")
+                st.write(sub)
         else:
             st.write(slovo)

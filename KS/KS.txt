@@ -30,10 +30,10 @@ Ich hlavnou výhodou je, že dokážu spoľahlivo detegovať nielen vodivé, ale
 Napriek mnohým výhodám majú aj svoje nevýhody. Kapacitné snímače sú citlivé na zmeny prostredia – vlhkosť, teplota alebo prach môžu ovplyvniť ich presnosť a stabilitu. Ich dosah je zvyčajne kratší v porovnaní s inými typmi snímačov, ako sú napríklad ultrazvukové alebo optické senzory. V niektorých prípadoch môžu nesprávne detegovať objekty, ktoré sa nachádzajú v blízkosti, ale nie sú cieľom merania, čo môže viesť k falošným spusteniam. Pri použití v rôznych aplikáciách je často potrebná dodatočná kalibrácia, aby snímač správne reagoval na konkrétne materiály alebo prostredie. Navyše, pokročilejšie modely určené pre špecifické podmienky môžu byť finančne náročnejšie.ks
 Cenové porovnanie kapacitných snímačov:
 
-"KAPACITNÝ SNÍMAČ C18P/BP-2E,https://www.ergate.sk/kapacitne-snimace/9563-kapacitny-snimac-c18p-bp-2e.html" 100,71€/ks
+"KAPACITNÝ SNÍMAČ C18P/BP-2E;https://www.ergate.sk/kapacitne-snimace/9563-kapacitny-snimac-c18p-bp-2e.html" 100,71€/ks
 /img_6
-"Kapacitný senzor NJK-5002C 10-30V 10mm,https://allegro.sk/ponuka/kapacitny-snimac-njk-5002c-10-30v-10-mm-13468748008?utm_feed=547ce2b2-2e28-4773-9707-58218068540e&utm_source=google&utm_medium=freelisting&dd_referrer=https%3A%2F%2Fwww.google.com%2F" 6,53€/ks
+"Kapacitný senzor NJK-5002C 10-30V 10mm;https://allegro.sk/ponuka/kapacitny-snimac-njk-5002c-10-30v-10-mm-13468748008?utm_feed=547ce2b2-2e28-4773-9707-58218068540e&utm_source=google&utm_medium=freelisting&dd_referrer=https%3A%2F%2Fwww.google.com%2F" 6,53€/ks
 
-"E2K-F10MC2OMRON,https://www.tme.eu/sk/details/e2k-f10mc2/kapacitne-snimace/omron/?brutto=1&currency=EUR" 158€/KS
+"E2K-F10MC2OMRON;https://www.tme.eu/sk/details/e2k-f10mc2/kapacitne-snimace/omron/?brutto=1&currency=EUR" 158€/KS
 
 
