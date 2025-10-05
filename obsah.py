@@ -4,6 +4,12 @@ from KS import KS
 from IS import IS
 from OS import OS
 from PIR import PIR
+from SN import SN
+from SP import SP
+from US import US
+from ZS import ZS
+from SUV import SUV
+from NTC import NTC
 st = streamlit
 st.title("Obsah")
 st.link_button(
@@ -48,7 +54,12 @@ st.link_button(
     "https://lotsofnames-j-us-ogirnx.streamlit.app/#ultrazvukove-snimace"
 )
 st.link_button(
+    "Zvukové snímače",
+    "https://lotsofnames-j-zs-tsjazt.streamlit.app/#zvukove-snimace"
+)
+'''
+st.link_button(
     "Rickrolling",
     "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
 )
-
+'''
