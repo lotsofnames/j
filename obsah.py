@@ -40,6 +40,10 @@ st.link_button(
     "https://lotsofnames-j-ntc-mljdaj.streamlit.app/#snimac-teploty-ntc"
 )
 st.link_button(
+    "Snímače plameňa",
+    "https://lotsofnames-j-sp-efgppi.streamlit.app/#snimace-plamena"
+)
+st.link_button(
     "Rickrolling",
     "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
 )

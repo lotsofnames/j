@@ -1,0 +1,22 @@
+# Ultrazvukové snímače
+Fyzikálnym základom ultrazvukových snímačov je šírenie akustických vĺn v pevných, kvapalných a plynných látkach. Ako meniče zvuku sa pre ultrazvukové snímače používajú najčastejšie piezokeramické meniče. Ich základom sú piezokeramické kryštály, ktoré majú tú vlastnosť, že prechodom elektrického prúdu menia svoje geometrické rozmery. Tieto kryštály prakticky menia elektrickú energiu na mechanickú a naopak, pri mechanickom pôsobení v nich vzniká elektrický náboj. Doplnením takéhoto meniča o ďalšie funkčné prvky vznikne snímač, ktorým je možné reflexné alebo difúzne snímanie. V danom časovom okamihu vyšle menič niekoľko impulzov šíriacich sa prostredím rýchlosťou zvuku. V prípade že tento impulz narazí na prekážku (meraný predmet), jeho časť sa odrazí po určitom čase späť k tomu istému, prípadne k inému snímaču. Na základe časovej odozvy vysielania a návratu signálu vyhodnocuje elektronika vzdialenosť zisťovaného predmetu.
+/img
+Obr.1 Časový priebeh signálu meniča
+Tvar ultrazvukového signálu je jeho časový priebeh
+V prípade, že vysielač a prijímač signálu je ten istý snímač, jedná sa o tzv. jednoduchý systém, ktorý sa používa v praxi najčastejšie. Ak sú prijímač a vysielač dva samostatné meniče, jedná sa o tzv. dvojitý systém.
+
+
+
+
+/img_1
+Obr.2 Rôzne typy ultrazvukových snímačov
+Najčastejšie používané prevedenia ultrazvukových snímačov sú v reflexnom režime ako jednocestná závora s binárnym výstupom snímača. Ďalším často používaným prevedením je snímač s analógovým výstupom pre meranie vzdialeností (napríklad výška hladiny kvapaliny). Konštrukčné prevedenia sú buď vo valcovom alebo hranatom puzdre. Používajú sa prevažne na miestach, kde nie je možné použiť optické senzory, ako je napríklad snímanie priehľadných predmetov.
+/img_2
+Obr.3 	Súvislosť medzi šírkou a dĺžkou vyžarovanej vlny
+/img_3
+Obr.4 Vyhotovenie reálnych ultrazvukových snímačov
+
+Využitie ultrazvukových snímačov Ultrazvukové senzory sa v priemyselných aplikáciách vyznačujú spoľahlivosťou a výbornou univerzálnosťou. Fyzikálny princíp ultrazvukových snímačov je použiteľný takmer vo všetkých podmienkach, a preto je ich využitie možné aj v náročných aplikáciách, vrátane detekcie objektov, meranie hladiny s milimetrovou presnosťou a podobne. Výrobcovia, vzhľadom na rôzne použitie v rôznych podmienkach, zvyknú vyrábať senzory v rôznych vyhotoveniach pričom nechýbajú robustné riešenia pre spomínané náročné podmienky. Ich použitie považujeme za najviac univerzálne spomedzi rôznych princípov (metód) merania v priemysle.
+"Ultrazvukový senzorový modul, ultrazvukový snímač rozsahu, US-100, ultrazvukový senzor na meranie vzdialenosti;https://www.kaufland.sk/product/512120681/?utm_source=bing&utm_medium=cpc&utm_campaign=SK_KM_SC_PMax_Low%20price%20products&utm_term=2331583126638683&utm_content=SK_SC_PMax_Low%20price%20products"
+/img_4
+
