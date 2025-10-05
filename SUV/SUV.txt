@@ -1,0 +1,47 @@
+# Senzor úniku vody
+Čo je senzor úniku vody?
+Senzory úniku vody predstavujú dôležitý prvok ochrany majetku v domácnostiach, firmách aj verejných budovách. Ich hlavnou úlohou je čo najskôr detegovať prítomnosť vody na miestach, kde by sa za normálnych okolností vyskytovať nemala. Voda môže spôsobiť výrazné škody na podlahách, stenách, elektroinštalácii, nábytku a iných zariadeniach, a to najmä v prípade poruchy potrubia, netesniaceho spotrebiča alebo záplav. Vďaka senzorom je možné takýmto situáciám predísť alebo aspoň rýchlo zasiahnuť.
+Princíp činnosti
+Zariadenie zvyčajne funguje na jednoduchom princípe. Na spodnej časti senzora sa nachádzajú dva alebo viac vodivých kontaktov. Ak sa medzi ne dostane voda, uzavrie sa elektrický obvod, čo spustí výstražný signál. Ten môže byť vo forme zvukového alarmu, svetelného upozornenia alebo digitálnej notifikácie na mobilné zariadenie. Pokročilejšie senzory dokážu byť súčasťou tzv. smarthome systémov – teda inteligentnej domácnosti – a v prípade potreby automaticky uzavrú prívod vody cez elektromagnetický ventil, čím sa zabráni ďalšiemu úniku.
+Výhody senzorov úniku vody:
+-Včasné odhalenie úniku vody, čím sa predchádza veľkým škodám.
+-Jednoduchá a rýchla inštalácia bez potreby odborníka.
+-Nízke obstarávacie náklady – dostupné aj pre bežnú domácnosť.
+-Nenáročná prevádzka – väčšina funguje dlho bez zásahu.
+-Možnosť prepojenia so smartfónom a odosielanie upozornení na diaľku.
+-Pokročilé modely dokážu automaticky uzavrieť prívod vody.
+-Vhodné do rôznych prostredí – domácnosti, kancelárie, technické priestory.
+
+Nevýhody senzorov úniku vody:
+-Pokrývajú len malú oblasť – ak voda unikne mimo dosahu, senzor nezareaguje.
+-Batériové verzie môžu prestať fungovať pri vybitej batérii.
+-Riziko falošných poplachov pri vysokej vlhkosti alebo kvapkách vody z iného zdroja.
+-Smart modely sú výrazne drahšie než základné verzie.
+-Zložitejšia inštalácia a nastavenie pri pokročilých systémoch.
+-Môže byť problém s kompatibilitou v rámci rôznych smart domácich systémov.
+
+Moderné senzory úniku vody čoraz častejšie využívajú bezdrôtovú komunikáciu. Vďaka tomu môžu byť spojené s mobilnou aplikáciou, ktorá upozorní používateľa aj v prípade, že sa nachádza mimo domova. Táto vlastnosť je veľmi dôležitá najmä pri dlhodobých neprítomnostiach, ako sú dovolenky, služobné cesty alebo víkendové pobyty mimo bydliska. Včasné upozornenie môže rozhodnúť o tom, či dôjde len k drobnému zatekaniu, alebo k vážnej havárii s vysokými finančnými škodami.
+Z dlhodobého hľadiska senzory úniku vody predstavujú investíciu, ktorá sa môže mnohonásobne vrátiť. Aj napriek tomu, že ide o relatívne malé a lacné zariadenia, dokážu zabrániť veľmi nákladným opravám, výmenám podláh, sušeniu muriva alebo zničeniu elektroniky. Preto sú dnes čoraz bežnejšou výbavou nielen moderných domov a bytov, ale aj kancelárií, serverovní, obchodov či hotelov.
+Ceny snímačov úniku vody:
+"Detektor úniku vody;https://www.wifitermostaty.sk/detektor-uniku-vody/" 25€/ks
+/img
+
+
+
+"Detektor úniku vody;https://www.wifitermostaty.sk/detektor-uniku-vody-2/" 29€/ks
+/img_1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
