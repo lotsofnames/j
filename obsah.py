@@ -24,7 +24,7 @@ st.link_button(
 )
 st.link_button(
     "PIR Snímače",
-    "https://lotsofnames-j-pir-xcsgla.streamlit.app/"
+    "https://lotsofnames-j-pir-xcsgla.streamlit.app/#pir-snimace"
 
 )
 st.link_button(
