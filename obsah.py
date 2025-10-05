@@ -3,6 +3,7 @@ from MS import MS
 from KS import KS
 from IS import IS
 from OS import OS
+from PIR import PIR
 st = streamlit
 st.title("Obsah")
 st.link_button(
