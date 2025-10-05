@@ -32,8 +32,8 @@ st.link_button(
     "https://zq73gtflpyeysronrzwzhs.streamlit.app/#senzor-uniku-vody"
 )
 st.link_button(
-    "",
-    ""
+    "Snímač nárazu",
+    "https://lotsofnames-j-sn-lyfriu.streamlit.app/#snimac-narazu"
 )
 st.link_button(
     "Rickrolling",
