@@ -57,9 +57,4 @@ st.link_button(
     "Zvukové snímače",
     "https://lotsofnames-j-zs-tsjazt.streamlit.app/#zvukove-snimace"
 )
-'''
-st.link_button(
-    "Rickrolling",
-    "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
-)
-'''
+
