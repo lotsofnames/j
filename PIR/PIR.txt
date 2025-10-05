@@ -1,4 +1,4 @@
-PIR Snímače
+# PIR Snímače
 V dnešnej dobe sú senzory kľúčovým prvkom v mnohých technológiách, od bezpečnostných systémov po automatizované osvetlenie. Medzi najpoužívanejšie typy patria PIR a HF senzory.
 
 Čo je PIR senzor?

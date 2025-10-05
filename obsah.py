@@ -23,6 +23,12 @@ st.link_button(
     "https://lotsofnames-j-os-kihfbl.streamlit.app/#opticke-snimace"
 )
 st.link_button(
+    "PIR Snímače",
+    "https://lotsofnames-j-pir-xcsgla.streamlit.app/"
+
+)
+st.link_button(
     "Rickrolling",
     "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
 )
+
