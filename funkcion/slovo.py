@@ -1,5 +1,6 @@
 # Indukčné snímače
 import re
+import sys
 
 import streamlit
 from funkcion.word import file
@@ -10,7 +11,7 @@ st = streamlit
 
 
 # st.link_button("Indukčné snímače","https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1")
-def main(base, path):
+def main(base, path,download=None,downloadName=None):
     slova = file(path)
     for slovo in slova:
         if slovo.startswith("#"):
@@ -26,3 +27,14 @@ def main(base, path):
                 st.write(sub)
         else:
             st.write(slovo)
+    if download!=None:
+        if downloadName!=None:
+            with open(download, "rb") as f:
+                st.download_button(
+                    label="Download",
+                    data=f,
+                    file_name=f"{downloadName}.docx",
+                    icon=":material/download:",
+                )
+        else:
+            sys.exit("no file name(downloadName)")
