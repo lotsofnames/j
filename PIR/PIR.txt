@@ -44,9 +44,8 @@ Nevýhody HF senzorov:
 - Vyššia cena oproti iným senzorom.
 
 
-
-
-
+Porovnanie PIR  a HF senzorov
+%Porovnanie PIR  a HF senzorov
 
 
 
