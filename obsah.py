@@ -14,7 +14,7 @@ from NTC import NTC
 
 st = streamlit
 base = os.path.dirname(__file__)
-base = os.path.join(base, "QR","adres2.txt")
+base = os.path.join(base, "QR","adres3.txt")
 st.title("Obsah")
 img_of = [
     "Indukčné snímače",
