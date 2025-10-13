@@ -10,7 +10,9 @@ def US():
     paths = os.path.join(base, "US.txt")
     # print(paths)
 
-    funkcion.slovo.main(base, paths)
+    name = "Ultrazvukové snímače"
+    downlode = os.path.join(base, "US.docx")
+    funkcion.slovo.main(base, paths, downlode, name)
 
 
 US()

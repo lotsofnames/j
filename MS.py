@@ -10,7 +10,9 @@ def MS():
     paths = os.path.join(base, "MS.txt")
     # print(paths)
 
-    funkcion.slovo.main(base, paths)
+    name = "Magnetické snímače"
+    downlode = os.path.join(base, "MS.docx")
+    funkcion.slovo.main(base, paths,downlode,name)
 
 
 MS()

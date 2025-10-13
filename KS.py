@@ -9,8 +9,9 @@ def KS():
 
     paths = os.path.join(base, "KS.txt")
     # print(paths)
-
-    funkcion.slovo.main(base, paths)
+    name = "Kapacitné snímače"
+    downlode = os.path.join(base, "KS.docx")
+    funkcion.slovo.main(base, paths,downlode, name)
 
 
 KS()

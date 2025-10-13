@@ -10,7 +10,8 @@ def SP():
     paths = os.path.join(base, "SP.txt")
     # print(paths)
 
-    funkcion.slovo.main(base, paths)
-
+    name = "Snímače plameňa"
+    downlode = os.path.join(base, "SP.docx")
+    funkcion.slovo.main(base, paths, downlode, name)
 
 SP()

@@ -9,8 +9,9 @@ def OS():
 
     paths = os.path.join(base, "OS.txt")
     # print(paths)
-
-    funkcion.slovo.main(base, paths)
+    name = "Optické snímače"
+    downlode = os.path.join(base, "OS.docx")
+    funkcion.slovo.main(base, paths, downlode, name)
 
 
 OS()

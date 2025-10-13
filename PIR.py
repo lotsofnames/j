@@ -10,7 +10,9 @@ def PIR():
     paths = os.path.join(base, "PIR.txt")
     # print(paths)
 
-    funkcion.slovo.main(base, paths)
+    name = "PIR Snímače"
+    downlode = os.path.join(base, "PIR.docx")
+    funkcion.slovo.main(base, paths, downlode, name)
 
 
 PIR()

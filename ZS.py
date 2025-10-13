@@ -10,7 +10,9 @@ def ZS():
     paths = os.path.join(base, "ZS.txt")
     # print(paths)
 
-    funkcion.slovo.main(base, paths)
+    name = "Zvukové snímače"
+    downlode = os.path.join(base, "ZS.docx")
+    funkcion.slovo.main(base, paths, downlode, name)
 
 
 ZS()

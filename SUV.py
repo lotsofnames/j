@@ -9,8 +9,9 @@ def SUV():
 
     paths = os.path.join(base, "SUV.txt")
     # print(paths)
-
-    funkcion.slovo.main(base, paths)
+    name = "Senzor úniku vody"
+    downlode = os.path.join(base, "SUV.docx")
+    funkcion.slovo.main(base, paths, downlode, name)
 
 
 SUV()

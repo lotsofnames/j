@@ -10,7 +10,9 @@ def SN():
     paths = os.path.join(base, "SN.txt")
     # print(paths)
 
-    funkcion.slovo.main(base, paths)
+    name = "Snímač nárazu"
+    downlode = os.path.join(base, "SN.docx")
+    funkcion.slovo.main(base, paths, downlode, name)
 
 
 SN()
