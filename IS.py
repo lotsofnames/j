@@ -10,11 +10,11 @@ def IS():
     base = os.path.join(base, "IS")
     # print(base)
     paths = os.path.join(base, "IS.txt")
-    name="Indukčné snímače"
-    downlode=os.path.join(base, "IS.docx")
+    name = "Indukčné snímače"
+    downlode = os.path.join(base, "IS.docx")
 
     # print(paths)
-    funkcion.slovo.main(base, paths,downlode,name)
+    funkcion.slovo.main(base, paths, downlode, name)
 
 
 IS()

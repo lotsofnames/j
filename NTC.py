@@ -12,7 +12,7 @@ def NTC():
 
     name = "Snímač teploty NTC"
     downlode = os.path.join(base, "NTC.docx")
-    funkcion.slovo.main(base, paths,downlode,name)
+    funkcion.slovo.main(base, paths, downlode, name)
 
 
 NTC()

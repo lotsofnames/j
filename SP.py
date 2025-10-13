@@ -14,4 +14,5 @@ def SP():
     downlode = os.path.join(base, "SP.docx")
     funkcion.slovo.main(base, paths, downlode, name)
 
+
 SP()

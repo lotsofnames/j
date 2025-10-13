@@ -12,7 +12,7 @@ def MS():
 
     name = "Magnetické snímače"
     downlode = os.path.join(base, "MS.docx")
-    funkcion.slovo.main(base, paths,downlode,name)
+    funkcion.slovo.main(base, paths, downlode, name)
 
 
 MS()

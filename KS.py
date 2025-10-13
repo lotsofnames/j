@@ -11,7 +11,7 @@ def KS():
     # print(paths)
     name = "Kapacitné snímače"
     downlode = os.path.join(base, "KS.docx")
-    funkcion.slovo.main(base, paths,downlode, name)
+    funkcion.slovo.main(base, paths, downlode, name)
 
 
 KS()
