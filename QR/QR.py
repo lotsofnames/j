@@ -1,4 +1,5 @@
 import qrcode
+
 web = []
 with open("adres.txt", "r") as f:
     for line in f:

@@ -14,7 +14,7 @@ from NTC import NTC
 
 st = streamlit
 base = os.path.dirname(__file__)
-base = os.path.join(base, "QR","adres3.txt")
+base = os.path.join(base, "QR", "adres3.txt")
 st.title("Obsah")
 img_of = [
     "Indukčné snímače",
@@ -29,7 +29,7 @@ img_of = [
     "Ultrazvukové snímače",
     "Zvukové snímače",
 ]
-i=0
+i = 0
 with open(base, "r") as f:
     for line in f:
         line = line.strip().replace("\n", "")
@@ -37,19 +37,16 @@ with open(base, "r") as f:
             img_of[i],
             line,
         )
-        i=i+1
-
-
+        i = i + 1
 
 IS()
+KS()
 MS()
-KS()
-SUV()
-KS()
 OS()
 PIR()
+SUV()
 SN()
+NTC()
 SP()
 US()
 ZS()
-NTC()
