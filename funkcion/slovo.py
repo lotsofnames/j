@@ -5,6 +5,7 @@ import pandas as pd
 import streamlit
 from funkcion.word import file
 import os
+import uuid
 from pathlib import Path
 
 st = streamlit
@@ -63,9 +64,11 @@ def main(base, path, download=None, downloadName=None):
             with open(download, "rb") as f:
                 st.download_button(
                     label="Download",
+                    #v pripade  problemov zmen  f.read na  f alebo opacne
                     data=f,
                     file_name=f"{downloadName}.docx",
                     icon=":material/download:",
+                    key=f"{downloadName}_{uuid.uuid4()}",
                 )
         else:
             sys.exit("no file name(downloadName)")
