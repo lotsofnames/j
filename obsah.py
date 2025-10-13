@@ -51,3 +51,4 @@ SP()
 US()
 ZS()
 #nechcelo  sa  nacitat obsah  preto  je tu toto
+st.rerun()
