@@ -51,4 +51,6 @@ SP()
 US()
 ZS()
 #nechcelo  sa  nacitat obsah  preto  je tu toto
-st.rerun()
+if "boolean" not in st.session_state:
+    st.session_state.boolean=True
+    st.rerun()
