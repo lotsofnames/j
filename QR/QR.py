@@ -1,7 +1,7 @@
 import qrcode
 
 web = []
-with open("adres.txt", "r") as f:
+with open("adres3.txt", "r") as f:
     for line in f:
         line = line.strip().replace("\n", "")
         web.append(line)
