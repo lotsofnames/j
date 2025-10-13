@@ -1,7 +1,5 @@
 import os
 
-from pydantic.v1.schema import get_flat_models_from_model
-
 import funkcion.slovo
 
 
