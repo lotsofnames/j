@@ -18,4 +18,5 @@ pg = st.navigation(
         ]
     }
 )
+st.set_page_config(page_title="titul")
 pg.run()
