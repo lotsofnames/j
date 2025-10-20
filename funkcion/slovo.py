@@ -64,7 +64,7 @@ def main(base, path, download=None, downloadName=None):
             with open(download, "rb") as f:
                 st.download_button(
                     label="Download",
-                    #v pripade  problemov zmen  f.read na  f alebo opacne
+                    # v pripade  problemov zmen  f.read na  f alebo opacne
                     data=f,
                     file_name=f"{downloadName}.docx",
                     icon=":material/download:",

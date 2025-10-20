@@ -50,7 +50,7 @@ NTC()
 SP()
 US()
 ZS()
-#nechcelo  sa  nacitat obsah  preto  je tu toto
+# nechcelo  sa  nacitat obsah  preto  je tu toto
 if "boolean" not in st.session_state:
-    st.session_state.boolean=True
+    st.session_state.boolean = True
     st.rerun()
