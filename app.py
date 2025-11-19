@@ -1,6 +1,7 @@
 import streamlit as st
+import os
 from streamlit import title
-
+port = int(os.environ.get("PORT", 8000))  # použije Azure port, alebo 8000 ako fallback
 pg = st.navigation(
     {
         "obsah": [
