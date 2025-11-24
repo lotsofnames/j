@@ -1,7 +1,4 @@
 import streamlit as st
-import os
-from streamlit import title
-port = int(os.environ.get("PORT", 8501))  # 8501 je default u Streamlit, ale Azure môže dať inú hodnotu
 pg = st.navigation(
     {
         "info": [
