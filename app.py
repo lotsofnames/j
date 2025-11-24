@@ -1,7 +1,12 @@
 import streamlit as st
-
+import os
+from streamlit import title
+port = int(os.environ.get("PORT", 8501))  # 8501 je default u Streamlit, ale Azure môže dať inú hodnotu
 pg = st.navigation(
     {
+        "info": [
+            st.Page("Onas.py", title="O nás",icon="ℹ️"),
+        ],
         "obsah": [
             st.Page("IS.py", title="Indukčné snímače"),
             st.Page("KS.py", title="Kapacitné snímače"),
@@ -17,5 +22,4 @@ pg = st.navigation(
         ]
     }
 )
-st.set_page_config(page_title="titul")
 pg.run()
