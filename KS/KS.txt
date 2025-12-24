@@ -22,7 +22,7 @@ Obr.4 Fotografia kapacitného snímača	 	Obr.5 Fotografie moderného indikátor
 
 
 
-/img_5
+*https://encyklopediapoznania.sk/data/priemysel/snimace_dalsie/kapacitny/princip/pouzitie_indikator_vysky_hladiny.gif
 Obr.6 Snímač hladiny vody
 
 Ich hlavnou výhodou je, že dokážu spoľahlivo detegovať nielen vodivé, ale aj nevodivé materiály, ako sú plasty, sklo, keramika alebo kvapaliny. Vďaka tomu nachádzajú široké uplatnenie napríklad pri kontrole hladiny v nádržiach, kde dokážu pracovať aj cez steny z plastu alebo skla.

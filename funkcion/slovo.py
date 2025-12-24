@@ -20,6 +20,9 @@ def main(base, path, download=None, downloadName=None):
         elif slovo.startswith("/"):
             image_path = os.path.join(base, f"{slovo.replace('/', '').strip()}.png")
             st.image(image_path)
+        elif slovo.startswith("*"):
+            gif = slovo.replace("*", "")
+            st.markdown(f"![Alt Text]({gif})")
         elif '"' in slovo:
             i = re.search(r'"(.+);(.+)"', slovo)
             if i:
