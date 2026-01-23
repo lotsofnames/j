@@ -6,7 +6,7 @@ import streamlit
 from funkcion.word import file
 import os
 import uuid
-from pathlib import Path
+
 
 st = streamlit
 
@@ -15,11 +15,19 @@ st = streamlit
 def main(base, path, download=None, downloadName=None):
     slova = file(path)
     for slovo in slova:
-        if slovo.startswith("#"):
+        if slovo.startswith("##"):
             st.subheader(slovo.replace("#", ""))
+        elif slovo.startswith("#"):
+            st.title(body=slovo.replace("#", ""),width="stretch",text_alignment ="center")
         elif slovo.startswith("/"):
-            image_path = os.path.join(base, f"{slovo.replace('/', '').strip()}.png")
-            st.image(image_path)
+            slovo = slovo.replace("/", "")
+            try:
+                s1,s2=slovo.split(",")
+            except ValueError:
+                s1=slovo
+                s2=""
+            image_path = os.path.join(base, f"{s1}.png")
+            st.image(image=image_path,caption=s2)
         elif slovo.startswith("*"):
             gif = slovo.replace("*", "")
             st.markdown(f"![Alt Text]({gif})")

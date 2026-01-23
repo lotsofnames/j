@@ -3,7 +3,7 @@ import streamlit as st
 pg = st.navigation(
     {
         "info": [
-            st.Page("Onas.py", title="O nás",icon="ℹ️"),
+            st.Page("Onas.py", title="O nás", icon="ℹ️"),
         ],
         "obsah": [
             st.Page("IS.py", title="Indukčné snímače"),
@@ -17,7 +17,7 @@ pg = st.navigation(
             st.Page("SUV.py", title="Senzor úniku vody"),
             st.Page("US.py", title="Ultrazvukové snímače"),
             st.Page("ZS.py", title="Zvukové snímače"),
-        ]
+        ],
     }
 )
 pg.run()

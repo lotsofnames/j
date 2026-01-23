@@ -1,24 +1,25 @@
-﻿# Kapacitné snímače
+﻿
+# Kapacitné snímače
 Aktívnym prvkom kapacitného snímača je okrúhla elektróda vo vnútri valcového puzdra, ktoré tvorí druhú elektródu a zároveň plní úlohu tienidla. Tieto dve elektródy spolu tvoria kondenzátor. Priblížením predmetu k čelnej ploche snímača sa mení jeho kapacita. Teda sú bezdotykové, bez spätného pôsobenia a majú elektronický výstup.  Pomocou kapacitných snímačov je možné zisťovať prítomnosť elektricky vodivých ako aj nevodivých materiálov. Väčšinou sú používané ako snímače priblíženia. Tiež sa používajú na snímanie nekovových predmetov, stráženie hladín kvapalín a sypkých hmôt. Vyrábajú sa v prevedení binárnom aj analógovom.
 
-/img
-Obr.1 Schématická značka
+/img,Obr.1 Schematická značka
+
 
 Funkčný princíp kapacitného senzoru je zobrazený na obrázkoch:
 
 
-/img_1
-Obr.2 Princíp fungovania kapacitných snímačov
+/img_1,Obr.2 Princíp fungovania kapacitných snímačov
 
-/img_2
-Obr.3 Princíp činnosti
+
+/img_2,Obr.3 Princíp činnosti
+
 
 Kapacitné snímače sa vyrábajú najčastejšie vo valcovom a kvádrovom prevedení puzdra s aktívnou plochou na jeho čelnej strane. V kvádrovom prevedení môžu mať elektródy snímača umiestnenie a tvar prispôsobené podľa požiadaviek danej aplikácie.
 
 Ukážky kapacitných snímačov sú na nasledujúcich fotografiách:
 
-/img_3
-Obr.4 Fotografia kapacitného snímača	 	Obr.5 Fotografie moderného indikátora výšky hladiny
+/img_3,Obr.4 Fotografia kapacitného snímača Obr.5 Fotografie moderného indikátora výšky hladiny
+
 
 
 
@@ -27,13 +28,13 @@ Obr.6 Snímač hladiny vody
 
 Ich hlavnou výhodou je, že dokážu spoľahlivo detegovať nielen vodivé, ale aj nevodivé materiály, ako sú plasty, sklo, keramika alebo kvapaliny. Vďaka tomu nachádzajú široké uplatnenie napríklad pri kontrole hladiny v nádržiach, kde dokážu pracovať aj cez steny z plastu alebo skla.
 Ďalšou prednosťou kapacitných snímačov je ich vysoká citlivosť a rýchla odozva, čo umožňuje ich nasadenie v aplikáciách, kde je potrebná presná a rýchla detekcia objektov. Navyše, keďže ide o bezkontaktné zariadenia, nedochádza k mechanickému opotrebeniu, čo zvyšuje ich životnosť a znižuje potrebu údržby. Senzory môžu byť navyše úplne zapuzdrené, takže sú odolné voči prachu, vlhkosti a iným nečistotám.
-Napriek mnohým výhodám majú aj svoje nevýhody. Kapacitné snímače sú citlivé na zmeny prostredia – vlhkosť, teplota alebo prach môžu ovplyvniť ich presnosť a stabilitu. Ich dosah je zvyčajne kratší v porovnaní s inými typmi snímačov, ako sú napríklad ultrazvukové alebo optické senzory. V niektorých prípadoch môžu nesprávne detegovať objekty, ktoré sa nachádzajú v blízkosti, ale nie sú cieľom merania, čo môže viesť k falošným spusteniam. Pri použití v rôznych aplikáciách je často potrebná dodatočná kalibrácia, aby snímač správne reagoval na konkrétne materiály alebo prostredie. Navyše, pokročilejšie modely určené pre špecifické podmienky môžu byť finančne náročnejšie.ks
-Cenové porovnanie kapacitných snímačov:
-
-"KAPACITNÝ SNÍMAČ C18P/BP-2E;https://www.ergate.sk/kapacitne-snimace/9563-kapacitny-snimac-c18p-bp-2e.html" 100,71€/ks
+Napriek mnohým výhodám majú aj svoje nevýhody. Kapacitné snímače sú citlivé na zmeny prostredia – vlhkosť, teplota alebo prach môžu ovplyvniť ich presnosť a stabilitu. Ich dosah je zvyčajne kratší v porovnaní s inými typmi snímačov, ako sú napríklad ultrazvukové alebo optické senzory. V niektorých prípadoch môžu nesprávne detegovať objekty, ktoré sa nachádzajú v blízkosti, ale nie sú cieľom merania, čo môže viesť k falošným spusteniam. Pri použití v rôznych aplikáciách je často potrebná dodatočná kalibrácia, aby snímač správne reagoval na konkrétne materiály alebo prostredie. Navyše, pokročilejšie modely určené pre špecifické podmienky môžu byť finančne náročnejšie.ks[
+## Cenové porovnanie kapacitných snímačov:
 /img_6
-"Kapacitný senzor NJK-5002C 10-30V 10mm;https://allegro.sk/ponuka/kapacitny-snimac-njk-5002c-10-30v-10-mm-13468748008?utm_feed=547ce2b2-2e28-4773-9707-58218068540e&utm_source=google&utm_medium=freelisting&dd_referrer=https%3A%2F%2Fwww.google.com%2F" 6,53€/ks
-
-"E2K-F10MC2OMRON;https://www.tme.eu/sk/details/e2k-f10mc2/kapacitne-snimace/omron/?brutto=1&currency=EUR" 158€/KS
+"KAPACITNÝ SNÍMAČ C18P/BP-2E-100,71€/ks;https://www.ergate.sk/kapacitne-snimace/9563-kapacitny-snimac-c18p-bp-2e.html"
+/img_7
+"Kapacitný senzor NJK-5002C 10-30V 10mm-6,53€/ks;https://allegro.sk/ponuka/kapacitny-snimac-njk-5002c-10-30v-10-mm-13468748008?utm_feed=547ce2b2-2e28-4773-9707-58218068540e&utm_source=google&utm_medium=freelisting&dd_referrer=https%3A%2F%2Fwww.google.com%2F"
+/img_8
+"E2K-F10MC2OMRON-158€/KS;https://www.tme.eu/sk/details/e2k-f10mc2/kapacitne-snimace/omron/?brutto=1&currency=EUR"
 
 
