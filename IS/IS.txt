@@ -2,9 +2,9 @@
 # Indukčné snímače
 Aktívnym prvkom indukčného snímača je cievka umiestnená vo feritovom jadre. Vysokofrekvenčný striedavý prúd z generátora preteká cievkou a vytvára tak magnetické pole, ktoré vychádza z otvorenej časti feritového jadra, ktoré je aktívnou plochou snímača.Ak sa v blízkosti aktívnej plochy snímača nachádza nejaký predmet z elektricky vodivého materiálu, naruší sa magnetické pole cievky a to spôsobí prepnutie výstupov snímača. Pracujú bezdotykovo a vďaka uzavretému puzdru sú odolné voči vplyvom okolitého prostredia na pracovisku. Majú vysokú spínaciu rýchlosť a prakticky neobmedzenú životnosť (kým nedôjde k mechanickému poškodeniu snímača). Princíp činnosti a ukážka možných prevedení reálnych indukčných snímačov je na nasledujúcich obrázkoch.
 /img_1
-/img_2,Obr.1 Princíp činnosti
+/img_2;Obr.1 Princíp činnosti
 
-/img_3,Obr.2 Schematická značka
+/img_3;Obr.2 Schematická značka
 Ich hlavnou výhodou je bezdotyková detekcia kovových objektov, čo znamená, že nedochádza k mechanickému opotrebovaniu, a tým sa predlžuje ich životnosť. Sú veľmi presné a odolné voči prachu, vlhkosti, olejom či iným znečisteniam, čo ich robí ideálnymi pre náročné priemyselné prostredie. Vďaka rýchlej odozve dokážu spoľahlivo reagovať aj na rýchlo sa pohybujúce objekty.
 Na druhej strane, indukčné snímače majú aj určité nevýhody. Jednou z hlavných obmedzení je, že dokážu detekovať iba kovové predmety – nefungujú pri plastoch, dreve či skle. Ich detekčná vzdialenosť je pomerne malá v porovnaní s inými typmi snímačov (napríklad ultrazvukovými), a navyše sa táto vzdialenosť líši v závislosti od typu kovu. Ďalšou nevýhodou môže byť aj citlivosť na elektromagnetické rušenie, najmä v prostrediach s vysokou úrovňou elektromagnetického smogu.
 Celkovo sú však indukčné snímače ideálnou voľbou pre aplikácie, kde je potrebná spoľahlivá a rýchla detekcia kovových objektov v náročnom prostredí.

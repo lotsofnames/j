@@ -18,16 +18,18 @@ def main(base, path, download=None, downloadName=None):
         if slovo.startswith("##"):
             st.subheader(slovo.replace("#", ""))
         elif slovo.startswith("#"):
-            st.title(body=slovo.replace("#", ""),width="stretch",text_alignment ="center")
+            st.title(
+                body=slovo.replace("#", ""), width="stretch", text_alignment="center"
+            )
         elif slovo.startswith("/"):
             slovo = slovo.replace("/", "")
             try:
-                s1,s2=slovo.split(",")
+                s1, s2 = slovo.split(";")
             except ValueError:
-                s1=slovo
-                s2=""
+                s1 = slovo
+                s2 = ""
             image_path = os.path.join(base, f"{s1}.png")
-            st.image(image=image_path,caption=s2)
+            st.image(image=image_path, caption=s2)
         elif slovo.startswith("*"):
             gif = slovo.replace("*", "")
             st.markdown(f"![Alt Text]({gif})")

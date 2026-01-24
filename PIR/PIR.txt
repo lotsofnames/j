@@ -1,7 +1,7 @@
 # PIR Snímače
 V dnešnej dobe sú senzory kľúčovým prvkom v mnohých technológiách, od bezpečnostných systémov po automatizované osvetlenie. Medzi najpoužívanejšie typy patria PIR a HF senzory.
 
-Čo je PIR senzor?
+## Čo je PIR senzor?
 PIR (PassiveInfrared) senzor je zariadenie, ktoré deteguje infračervené žiarenie vyžarované objektmi vo svojom zornom poli. Tieto senzory sú pasívne, čo znamená, že samy nevyžarujú žiadnu energiu, ale len prijímajú infračervené žiarenie.
 
 PIR senzory majú dvojité alebo viacnásobné detekčné okienka, ktoré merajú rozdiely v infračervenom žiarení. Keď sa do zorného poľa senzora dostane objekt s teplotou odlišnou od okolitého prostredia (napr. človek), senzor zaznamená zmenu a spustí signál.
@@ -10,41 +10,41 @@ PIR senzor
 
 
 PIR senzory detekujú pohyb pomocou infračerveného žiarenia v rozsahu 8 až 14 μm. Svietidlá s PIR senzorom sú menej citlivé, najmä v zimnom období. Studený povrch osoby nespôsobí dostatočnú teplotnú zmenu. Preto sa tieto senzory používajú hlavne pri bytoch a výťahoch, kde nereagujú na pohyb za dverami.
-Výhody PIR senzorov:
+## Výhody PIR senzorov:
 - Nereaguje cez stavebné materiály.
 - Viditeľnosť senzora
 - Nižšia obstarávacia cena.
 - Nízka spotreba v stand-by režime < 0,1W.
-Nevýhody PIR senzorov:
+## Nevýhody PIR senzorov:
 - Slabá citlivosť v zimnom období.
 - Viditeľný senzor na svietidle
 
 
 
-HF senzor
+## HF senzor
 HF (HighFrequency) senzor pracuje na princípe vysielania a prijímania vysokofrekvenčných elektromagnetických vĺn. Na rozdiel od PIR senzorov, HF senzory aktívne vysielajú signál a merajú zmeny v odrazenom signáli spôsobené pohybom.
 Ako HF senzory fungujú?
 HF senzory využívajú Dopplerov efekt na detekciu pohybu. Vysielajú vysokofrekvenčné vlny, ktoré sa odrážajú od objektov v ich blízkosti. Ak sa objekt pohybuje, mení sa frekvencia odrazených vĺn, čo senzor zaznamená.
 Mikrovlný, radarový senzor HF, VF
-(pracovná frekvencia 5,8GHz)
+(pracovná frekvencia 5,8GHz).
 
 Mikrovlnné senzory pracujú na frekvencii 5,8 GHz, podobne ako WiFi. Tieto vlny prenikajú stavebnými materiálmi, ako sú dvere, sklo či výťah. Svietidlá s mikrovlnným senzorom sú veľmi citlivé a reagujú na minimálny pohyb, bez ohľadu na teplotu predmetu. Tieto senzory spínajú aj pri pohybe za dverami, preto sa im vyhýbame pri bytoch a výťahoch. V týchto miestach používame svietidlá s PIR senzorom.
 
 
 
 
-Výhody HF senzorov:
+## Výhody HF senzorov:
 - Vysoká citlivosť – reaguje na minimálne pohyby.
 - Senzor nie je viditeľný –  skrytý pod sklom alebo krytom svietidla.
 - Reaguje na studené osoby – účinný v zimnom období.
 
-Nevýhody HF senzorov:
+## Nevýhody HF senzorov:
 - Reaguje cez ľahké stavebné materiály –  ako sklo, dvere, skrinky a sadrokartón.
 - Vyššia spotreba senzora v kľudovom stave – 0,3 – 0,5W na jeden senzor.
 - Vyššia cena oproti iným senzorom.
 
 
-Porovnanie PIR  a HF senzorov
+## Porovnanie PIR  a HF senzorov
 %Porovnanie PIR  a HF senzorov
 
 
@@ -54,10 +54,10 @@ Porovnanie PIR  a HF senzorov
 
 
 
-Senzory zabudované v svietidlách
+##Senzory zabudované v svietidlách
 Tieto svietidlá majú už namontovaný a zapojený pohybový senzor. PIR senzory sú viditeľné, zatiaľ čo HF senzory môžu byť skryté pod krytom svietidla, čo nenarušuje dizajn.
 
-/img
+/img;Obr.1 Svietidlo so zabudovaným PIR snímačom
 
 
 
@@ -68,8 +68,8 @@ Tieto svietidlá majú už namontovaný a zapojený pohybový senzor. PIR senzor
 
 
 
-Obr.1 Svietidlo so zabudovaným PIR snímačom
-Samostatné senzory
+
+## Samostatné senzory
 Samostatné senzory sa dajú namontovať na akékoľvek zariadenie, nielen na svietidlá. Poskytujú lepšie technické možnosti a lepšie pokrytie priestorov pohybovými senzormi. Často sa používajú senzory od firmy B.E.G Luxomat.
 
 
@@ -79,12 +79,11 @@ Samostatné senzory sa dajú namontovať na akékoľvek zariadenie, nielen na sv
 
 
 
-
-/img_1
-Obr. 2 Snímač pohybu
+/img_1;Obr. 2 Snímač pohybu
 
 
-Centrálny súmrakový senzor
+
+## Centrálny súmrakový senzor
 Centrálny súmrakový senzor je zariadenie, ktoré automaticky zapína a vypína elektrické spotrebiče, najčastejšie osvetlenie, v závislosti od vonkajšej úrovne osvetlenia. Funguje na princípe snímania intenzity denného svetla – keď začne byť tma a svetelná hladina klesne pod vopred nastavenú hodnotu, senzor zapne osvetlenie. Naopak, keď sa rozvidnie a úroveň svetla stúpne, svetlá opäť vypne. Vďaka tomu je možné zabezpečiť osvetlenie len v čase, keď je to skutočne potrebné, čo výrazne šetrí energiu. Označenie „centrálny“ znamená, že jeden senzor môže ovládať viaceré svietidlá alebo svetelné okruhy naraz. Zvyčajne sa inštaluje na miesto s dobrým prístupom k dennému svetlu, aby dokázal presne vyhodnotiť aktuálne podmienky v exteriéri. Tieto senzory sa často využívajú pri verejnom osvetlení, osvetlení budov, výkladov, parkovísk alebo reklamných tabúľ.
 
 
@@ -92,36 +91,23 @@ Centrálny súmrakový senzor je zariadenie, ktoré automaticky zapína a vypín
 
 
 
-Ceny PIR a súmrakových snímačov
-"Detektor pohybu BOSCH PIR ISC-BPR2-W12 24;https://www.eltrox.sk/detektor-pohybu-bosch-pir-isc-bpr2-w12/",10€/ks
+## Ceny PIR a súmrakových snímačov
+
 /img_2
+"Detektor pohybu BOSCH PIR ISC-BPR2-W12-19,40€/ks;https://www.eltrox.sk/detektor-pohybu-bosch-pir-isc-bpr2-w12/"
 
 
 
 
-
-
-"Kanlux 00460 ALER JQ-30-W - Senzor pohybu;https://www.esvit.sk/kanlux-00460-aler-jq-30-w-pohybove-cidlo" 9,80€/ks
 /img_3
+"Kanlux 00460 ALER JQ-30-W - Senzor pohybu-9,80€/ks;https://www.esvit.sk/kanlux-00460-aler-jq-30-w-pohybove-cidlo"
 
 
 
 
 
 
-"JZK 2x AC 110-220V PIR modul pohybového senzoru PIR infračervený pohybový senzor Detektor Spínač;https://www.odkarla.sk/jzk-2x-ac-110-220v-pir-modul-pohyboveho-senzora-pir-infracerveny-pohybovy-senzor-detektor-spinac~p1525365" 7,10€/ks
 /img_4
-
-
-
-
-"Senzor súmrakový TG-TS-802W-S, inštalácia do krabičky;https://www.mravec.sk/senzor-sumrakovy-tg-ts-802w-s--instalacia-do-krabicky/" 13,30€/ks
-/img_5
-
-
-
-
-
-
+"JZK 2x AC 110-220V PIR modul pohybového senzoru PIR infračervený pohybový senzor Detektor Spínač-7,10€/ks;https://www.odkarla.sk/jzk-2x-ac-110-220v-pir-modul-pohyboveho-senzora-pir-infracerveny-pohybovy-senzor-detektor-spinac~p1525365"
 
 

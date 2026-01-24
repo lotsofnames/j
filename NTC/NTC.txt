@@ -2,31 +2,32 @@
 
 Horúce vodiče alebo teplé vodiče sú elektronické odpory s negatívnymi teplotnými koeficientmi (skrátene NTC). Ak prúd tečie cez komponenty, ich odpor klesá so zvyšujúcimi sa teplotami. Ak okolitá teplota klesne (napr. V ponorenom rukáve), zložky na druhej strane reagujú so zvyšujúcim sa odporom. Z dôvodu tohto osobitného správania odborníci tiež označujú odpor NTC ako termistor NTC.
 Elektrický odpor klesá, keď sa elektróny pohybujú. Odpory NTC pozostávajú z polovodičových materiálov, ktorých vodivosť je vo všeobecnosti medzi vodivosťou elektrických vodičov a elektrickými nevodmi. Ak sa komponenty zahrievajú, elektróny uvoľnené z atómov mriežky. Nechajú svoje miesto v štruktúre a prepravujú elektrinu oveľa lepšie. Výsledok: S rastúcou teplotou termistory vykonávajú elektrinu oveľa lepšie - ich elektrický odpor klesá. Komponenty sa okrem iného používajú ako snímače teploty, ale preto musia byť pripojené k zdroju napätia a ampérii.
-Výroba a vlastnosti teplých a studených vodičov
+## Výroba a vlastnosti teplých a studených vodičov
 Odpor NTC môže reagovať veľmi slabo alebo v niektorých oblastiach veľmi silne na zmeny v okolitých teplotách. Špecifické správanie v podstate závisí od výroby komponentov. Týmto spôsobom výrobcovia prispôsobujú miešací pomer oxidov alebo doping oxidov kovov požadovaným podmienkam. Vlastnosti komponentov však môžu byť tiež ovplyvnené samotným výrobným procesom. Napríklad prostredníctvom obsahu kyslíka v atmosfére vypaľovania alebo individuálnej rýchlosti chladenia prvkov.
-Rôzne materiály pre odpor NTC
+## Rôzne materiály pre odpor NTC
 Čisté polovodičové materiály, zložené polovodiče alebo kovové zliatiny sa používajú na zabezpečenie toho, aby termistory vykazovali svoje charakteristické správanie. Posledne menované obvykle pozostávajú z oxidov kovov (zlúčeniny kovov a kyslíka) mangánu, niklu, kobaltu, železa, medi alebo titánu. Materiály sú zmiešané s väzbovými činidlami, lisované a spekané. Výrobcovia zahrievajú suroviny pod vysokým tlakom do tej miery, že sa vytvárajú obrobky s požadovanými vlastnosťami.
-Typické vlastnosti termistora
+## Typické vlastnosti termistora
 Rezistor NTC je k dispozícii v rozsahu od jedného ohmu do 100 megaohmov. Komponenty sa môžu používať od mínus 60 až 200 stupňov Celzia a dosiahnuť tolerancie 0,1 až 20 percent. Pokiaľ ide o výber termistora, musia sa zohľadniť rôzne parametre. Jedným z najdôležitejších je nominálny odpor. Označuje hodnotu odporu pri danej nominálnej teplote (zvyčajne 25 stupňov Celzia) a je označená kapitálom R a teplotou. Napríklad R25 pre hodnotu odporu pri 25 stupňoch Celzia. Relevantné je aj špecifické správanie pri rôznych teplotách. Toto je možné určiť pomocou tabuliek, vzorcov alebo grafiky a musí sa úplne zhodovať s požadovanou aplikáciou. Ďalšie charakteristické hodnoty odporov NTC sa týkajú tolerancií, ako aj určitých limitov teploty a napätia.
-Rôzne oblasti aplikácie pre odpor NTC
+## Rôzne oblasti aplikácie pre odpor NTC
 Rovnako ako rezistor PTC, aj NTC odpor je vhodný aj na meranie teploty. Hodnota odporu sa mení v závislosti od okolitej teploty. Aby sa nenapadlo falšovanie výsledkov, samovyžanie by malo byť čo najväčšie obmedzené. Subúlba počas prúdu prúdu sa však môže použiť na obmedzenie prúdu inrush. Pretože odpor NTC je po zapnutí elektrických zariadení studený, takže najskôr tečie iba malý prúd. Po nejakom čase v prevádzke sa termistor zahreje, elektrický odpor kvapká a viac prúdu prúdu. Elektrické zariadenia dosahujú svoj plný výkon týmto spôsobom s určitým časovým oneskorením.
 Rezistor NTC vedie elektrický prúd zle pri nízkych teplotách. Ak sa teplota okolia zvyšuje, odpor takzvaných teplých vodičov výrazne klesá. Špeciálne správanie polovodičových prvkov sa môže použiť primárne na meranie teploty, na obmedzenie prúdu alebo na oneskorenie rôznych kontra
-Výhody
+## Výhody
 Ich hlavnou výhodou je vysoká citlivosť, vďaka ktorej dokážu presne reagovať na malé zmeny teploty, najmä v nižších teplotných rozsahoch. Ďalšou výhodou je ich nízka cena, čo ich robí atraktívnymi pre hromadnú výrobu a široké nasadenie. Vďaka malým rozmerom ich možno jednoducho integrovať aj do kompaktných zariadení. NTC snímače majú jednoduchú konštrukciu, ktorá umožňuje ľahkú implementáciu do elektronických obvodov, a zároveň poskytujú dobrý dynamický rozsah – často pokrývajú teploty od približne -50 °C do +150 °C.
-Nevýhody
+## Nevýhody
 Na druhej strane, medzi nevýhody NTC snímačov patrí ich nelineárna charakteristika. Zmena odporu vzhľadom na teplotu nie je priamo úmerná, čo si vyžaduje použitie korekčných výpočtov alebo kalibrácií, ak je potrebná vyššia presnosť. Ďalším obmedzením je ich citlivosť na veľmi vysoké teploty – pri hodnotách nad približne 150 °C môže dôjsť k degradácii materiálu, čo znižuje presnosť a životnosť snímača. Tieto nevýhody môžu byť nevhodné pre niektoré náročné priemyselné aplikácie, kde je požadovaná vysoká presnosť v širokom teplotnom rozsahu.
-Ceny jednotlivých snímačov NTC:
-"Snímač teploty NTC 4,7Kom 3985K PVC 3m;https://allegro.sk/ponuka/snimac-teploty-ntc-4-7kom-3985k-pvc-3m-15293278736?utm_medium=cpc&utm_source=bing.com&utm_feed=be3460ba-a443-402b-83fb-bc24a2286349&utm_campaign=SK%3EHome%3EALL%3EPLA&dd_referrer=https%3A%2F%2Fwww.bing.com%2F" 7€/ks
+## Ceny jednotlivých snímačov NTC:
 /img
-"Snímač teploty NTC sonda Vokera;https://allegro.sk/ponuka/snimac-teploty-ntc-sonda-nahrada-vokera-15256428669?utm_medium=cpc&utm_source=bing.com&utm_feed=be3460ba-a443-402b-83fb-bc24a2286349&utm_campaign=SK%3EHome%3EALL%3EPLA" 11,40€/ks
+"Snímač teploty NTC 4,7Kom 3985K PVC 3m-7€/ks;https://allegro.sk/ponuka/snimac-teploty-ntc-4-7kom-3985k-pvc-3m-15293278736?utm_medium=cpc&utm_source=bing.com&utm_feed=be3460ba-a443-402b-83fb-bc24a2286349&utm_campaign=SK%3EHome%3EALL%3EPLA&dd_referrer=https%3A%2F%2Fwww.bing.com%2F"
+
 /img_1
+"Snímač teploty NTC sonda Vokera-11,40€/ks;https://allegro.sk/ponuka/snimac-teploty-ntc-sonda-nahrada-vokera-15256428669?utm_medium=cpc&utm_source=bing.com&utm_feed=be3460ba-a443-402b-83fb-bc24a2286349&utm_campaign=SK%3EHome%3EALL%3EPLA"
 
 
 
 
-
-"Snímač teploty NTC, teplotná sonda pre Viessmann 7819967;https://allegro.sk/ponuka/snimac-teploty-ntc-sonda-nahrada-vokera-15256428669?utm_medium=cpc&utm_source=bing.com&utm_feed=be3460ba-a443-402b-83fb-bc24a2286349&utm_campaign=SK%3EHome%3EALL%3EPLA" 11€/ks
 /img_2
+"Snímač teploty NTC, teplotná sonda pre Viessmann 7819967-11€/ks;https://allegro.sk/ponuka/snimac-teploty-ntc-sonda-nahrada-vokera-15256428669?utm_medium=cpc&utm_source=bing.com&utm_feed=be3460ba-a443-402b-83fb-bc24a2286349&utm_campaign=SK%3EHome%3EALL%3EPLA"
+
 
 
 

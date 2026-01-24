@@ -1,26 +1,26 @@
 # Snímač nárazu
 Šokový senzor je jedným z hlavných prvkov bezpečnostného výstražného systému. Vďaka tomuto senzoru ich ako majitelia automobilov môžeme chrániť pred možným vniknutím alebo krádežou.
 Senzory nárazu sa používajú nielen v autoalarmoch, ale aj na ochranu súkromných domov, komerčných objektov, prepravu cenných vecí atď.
-Čo je to snímač nárazu?
+## Čo je to snímač nárazu?
 
 Otrasový snímač je malé, kompaktné a nenápadné zariadenie, ktoré je inštalované na povrchu, na ktorý je možné naraziť. Ak dôjde k nárazu alebo inému náhlemu pohybu, senzor vyšle do počítača alarm a ten sa spustí. Reakcia je okamžitá a úderná a keďže signál znie veľmi hlasno, núti páchateľov rýchlo opustiť svoje zámery a utiecť.
-Ako funguje snímač otrasov - zariadenie, typy a základné princípy činnosti
+## princíp činnosti
 
 Otrasový senzor pracuje v dvoch režimoch. Prvým režimom je výstražný režim a tento režim sa aktivuje, keď sa vozidlo alebo predmet dotkne oblasti, kde je nainštalovaný snímač, miernym nárazom alebo dotykom. V tomto prípade senzor zareaguje niekoľkými krátkymi pípnutiami, ktoré je možné kombinovať s blikaním svetlometov (v prípade auta). Výhodou tohto režimu je, že auto nevydáva dlhé pípnutia, napríklad keď mačka skočí na kapotu auta alebo keď do neho deti narazia loptou. Druhým prevádzkovým režimom je výstražný režim, ktorý sa aktivuje, iba ak na predmet alebo vozidlo pôsobí veľká sila, napríklad dôjde k rozbitiu okna alebo k pokusu o vlámanie. V takýchto situáciách snímač šoku vyšle okamžitý signál na konzolu alarmu a vydá hlasné nepretržité pípnutie. Aby snímač nárazu dokázal rozlíšiť skutočný náraz od náhodných nárazov a náhodného rušenia, má dvojzónovú kontrolu, alebo inými slovami, má zabudovaný systém, ktorý dokáže rozlíšiť medzi nárazmi (rozpoznanie v dvoch zónach). Samotné snímače sa delia hlavne na typy podľa ich fyzikálneho princípu činnosti: piezoelektrické a magnetodynamické
 Piezoelektrické šokové snímače využívajú schopnosť piezoelektrickej platne vytvárať ohybové napätie. Tento typ otrasových snímačov je lacný, ľahko sa inštaluje, má však jednu veľkú nevýhodu - sú veľmi citlivé na vysokofrekvenčné vibrácie a reagujú aj na najmenšie vibrácie alebo bočné zvuky, ako je zvuk z iného alarmu, hrmenie, hluk a iné .
 Okrem toho sú citlivé na tepelné vplyvy a citlivosť snímača sa zvyšuje alebo znižuje v závislosti od vonkajšej teploty.
 Magnetodynamické snímače nárazov pracujú na princípe trepania magnetu v blízkosti cievky.
 Tento typ snímača sa skladá z riadiaceho magnetu, ktorý je namontovaný na železnej pružine. V okamihu nárazu na automobil sa aktivuje kmitanie pružiny. Tieto vibrácie vytvárajú elektrický signál vo viacbodovej cievke a sila nárazu určuje, aký silný bude signál. Výhodou magnetodynamických šokových senzorov je, že magnet sa hojdá iba pri nízkofrekvenčných nárazoch na predmet alebo auto. Tento typ snímača navyše nie je ovplyvnený teplotnými výkyvmi.
-Inštalácia a účinnosť
+## Inštalácia a účinnosť
 
 Medzi odborníkmi panuje veľa diskusií o inštalácii šokových senzorov. Niektorí z nich sa domnievajú, že snímače nárazov by mali byť inštalované na železných častiach automobilu a mali by byť bezpečne pripevnené tak, aby nepodliehali vonkajším vibráciám. Podľa ďalších odborníkov je však inštalácia senzorov na železo veľkou chybou, pretože väčšinu amplitúdy absorbuje železo a senzor nedokáže správne načítať údaje a často reaguje na slabé vplyvy. V priebehu rokov sa uskutočnilo mnoho experimentov, aby sa pokúsili odpovedať na otázku, aké je najlepšie miesto na montáž snímača nárazu, a zdá sa, že v posledných rokoch došlo k určitému porozumeniu v otázke inštalácie - pod prístrojovou doskou auto.
 
-Ako nastaviť snímač nárazu?
+## Ako nastaviť snímač nárazu?
 
 Ak nie sme špecialisti, najlepším riešením je v tomto prípade navštíviť špecializovanú službu na konfiguráciu snímača. Ak sa však rozhodneme, že sa pokúsime nakonfigurovať snímač sami, musíme urobiť nasledovné. Najskôr samozrejme musíme zistiť, kde je snímač nainštalovaný. Ako sme už pred chvíľou spomenuli, snímač otrasov sa zvyčajne inštaluje buď pod panel alebo na podlahu, tesne pod panel. Ak má auto zabudovaný alarm, potom je umiestnenie snímača otrasov v príručke k automobilu zvyčajne označené ako komorník. Keď je snímač nájdený, potrebujeme vhodný skrutkovač na otáčanie skrutky, ktorý určuje optimálnu citlivosť nárazového snímača. Na samotnom zariadení sú pokyny, podľa ktorých môžeme vedieť, kam sa obrátiť, aby sa citlivosť zariadenia znižovala alebo zvyšovala.
-Ako skontrolovať citlivosť snímača otrasov?
+## Ako skontrolovať citlivosť snímača otrasov?
 Po nakonfigurovaní snímača musíme vozidlo vyzbrojiť a počkať niekoľko minút. Potom musíme priamo v strede naraziť do okna auta. Pokiaľ sa senzor zapne aj pri miernom zatlačení alebo nárazoch, znamená to, že nie je správne nakonfigurovaný a musíme pokračovať v nastavovaní. Ak sa nezapne ani po niekoľkých zásahoch, musíte zvýšiť citlivosť.
-Výhody a nevýhody
+## Výhody a nevýhody
 •	zisková cena;
 •	kompaktnosť;
 •	schopnosť pracovať v niekoľkých režimoch;
@@ -30,18 +30,15 @@ Výhody a nevýhody
 •	možnosť vybavenia s dodatočnou funkčnosťou.
 Niektoré snímače sú príliš citlivé na vonkajšie vplyvy a fungujú iba v režime „alarm“. To znamená, že sú citliví aj na najmenšie vibrácie a môžu nás poblázniť ako majiteľov automobilov a susedov, ktorí žijú okolo nás.
 Existujú aj modely, ktoré si vyžadujú profesionálnu inštaláciu. Tieto modely nie je možné inštalovať doma na najbližšej čerpacej stanici, ale je potrebné ich nainštalovať v špecializovanom servise a zaplatiť za služby odborníka.
-
-"Snímač otrasov a vibrácií 102 9VDC;https://www.avelmak.sk/produkt/49559?lm=1478" – 2,67/ks
-/img
+## Cenové porovnanie
 
 
 
 
 
 
-
-"Bezdrôtový otrasový snímač Flajzar GSM Alarm EMA2-OTR;https://www.ecoshopa.sk/DAP-prislusenstvo-Bezdrotovy-otrasovy-snimac-Flajzar-GSM-Alarm-EMA2-OTR-d1897.htm" – 59,90/ks
 /img_1
+"Bezdrôtový otrasový snímač Flajzar GSM Alarm EMA2-OTR–59,90/ks;https://www.ecoshopa.sk/DAP-prislusenstvo-Bezdrotovy-otrasovy-snimac-Flajzar-GSM-Alarm-EMA2-OTR-d1897.htm"
 
 
 
@@ -52,5 +49,5 @@ Existujú aj modely, ktoré si vyžadujú profesionálnu inštaláciu. Tieto mod
 
 
 
-"Snímač otrasov 2-zonný - KEETEC LSK 2;https://omegasecurity.sk/snimace/8192-snimac-otrasov-2-zonny-keetec-lsk-2.html" – 8,95/ks
 /img_2
+"Snímač otrasov 2-zonný - KEETEC LSK 2–8,95/ks;https://omegasecurity.sk/snimace/8192-snimac-otrasov-2-zonny-keetec-lsk-2.html"

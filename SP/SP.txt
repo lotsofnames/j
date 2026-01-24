@@ -1,23 +1,18 @@
 # Snímače plameňa
 Princíp činnosti snímačov plameňa
 Plameňové detektory fungujú tak, že rozpoznávajú špecifické vlnové dĺžky svetla produkovaného plameňom. Tieto detektory sú reverzne navrhnuté tak, aby sa zamerali buď na ultrafialové alebo infračervené svetlo, alebo skôr na akýkoľvek typ žiarenia indikujúceho oheň a jeho zložky. Prípadne pri neprítomnosti ohňa jednoducho detegujú prichádzajúce žiarenie, ktoré vybudí jednotku detekcie plameňa. To umožňuje rýchlo zistiť prítomnosť požiaru a tiež znižuje počet falošných poplachov spôsobených neplameňovým žiarením, ktoré je elektromagnetické. Pre optimálnu funkčnosť vyžadujú snímače plameňa vhodné umiestnenie, údržbu a ochranu pred podmienkami nepriaznivými pre detekciu.
-/img
-Obr.1 Snímač plameňa
-Ako funguje infračervený snímač plameňa?
+/img;Obr.1Snímač plameňa
+## Ako funguje infračervený snímač plameňa?
 Infračervené snímače plameňa fungujú tak, že rozpoznávajú infračervené žiarenie produkované plameňom. Všetky plamene vyžarujú svetlo a teplo, vrátane infračerveného žiarenia, ktoré je pre ľudské oko neviditeľné. Tieto senzory monitorujú toto žiarenie pomocou detektorov plameňa, ktoré ignorujú tepelné signály, ktoré nesúvisia s plameňom. Potom, čo senzor zaznamená infračervené žiarenie v rámci špecifickej vlnovej dĺžky, odošle sa do riadiaceho systému signál, ktorý potvrdí prítomnosť plameňa. Snímače plameňa tak zaisťujú presnú detekciu energie vykurovacích systémov, bezpečnosť a účinnosť.
-Pochopenie detektorov ultrafialového plameňa
+## Detektory ultrafialového plameňa
 Špecializované senzory nazývané UV FlameDetectors fungujú na základnom princípe detekcie UV žiarenia produkovaného ohňom pri horení. Tieto zariadenia využívajú senzor citlivý na UV žiarenie vyžarujúci žiarenie s veľkosťou 180 až 260 nanometrov. Keď plameň produkuje takýto rozsah UV žiarenia, zariadenie ho zmeria a vygeneruje signál, ktorý indikuje prítomnosť trvalého plameňa. Tieto UV detektory plameňa sú vysoko účinné, ale môžu byť vysoko citlivé, takže nemusia byť najvhodnejšie pre aplikácie rýchlej detekcie požiaru, ako sú plynové turbíny a parné kotly. Najlepšie je nasadiť tieto zariadenia v prostrediach, kde nie je potrebná okamžitá reakcia, pretože sú citlivé na umelé osvetlenie, ako je slnko a UV svetlo, ktoré môže vyvolať falošný poplach.
 
-Infračervené (IR) detektory plameňa
+## Infračervené (IR) detektory plameňa
 Detektory horiaceho plameňa detekujú infračervené žiarenie, ktoré plamene vyžarujú. Účinne bojujú s požiarmi vznikajúcimi v dôsledku uhľovodíkov a najčastejšie sa vyskytujú v závodoch na rafináciu ropy a chemické spracovanie. Kvôli slnečnému žiareniu sú tieto nástroje menej náchylné na falošné poplachy. Napriek tomu môže byť potrebná pravidelná údržba, najmä v prostredí so silným prachom alebo dymom, kde sa na ich časté čistenie používa zariadenie na snímanie plameňa.
-/img_1
-Obr.2 Infračervený senzor plameňa
-Viacspektrálne plameňové detektory
+/img_1;Obr.2 Infračervený senzor plameňa
+## Viacspektrálne plameňové detektory
 Viacspektrálne detektory plameňa sú snímače plameňa, ktoré presne eliminujú falošné poplachy pomocou systémov detekcie ultrafialového, infračerveného a viditeľného svetla. Môžu adekvátne fungovať v štrukturálne zložitých alebo vysoko rizikových prostrediach, ako sú závody na spracovanie plynu, a sú spoľahlivé pri extrémnych teplotách a silnom vetre.
-Úloha UV a IR žiarenia pri detekcii plameňa
-UV (ultrafialové) a IR (infračervené) lúče sú základnými aspektmi moderných systémov detekcie plameňa kvôli ich jedinečným spektrálnym charakteristikám. Plameň môže vyžarovať cez široké spektrum vlnových dĺžok, a to je prípad UV žiarenia, ktoré sa zvyčajne pohybuje od 180 do 280 nanometrov. Na porovnanie, infračervené žiarenie sa pohybuje od 700 nanometrov a viac a technológia infračerveného žiarenia rýchlo deteguje mikrometre. Jednou z technických charakteristík UV snímačov plameňa je ich vysoká citlivosť na emisie s krátkou vlnovou dĺžkou vyžarované plameňmi; naproti tomu nie sú ovplyvnené osvetlením pozadia ani inými zdrojmi tepla. Vďaka tomu sú spoľahlivé v situáciách, keď sú falošné poplachy spôsobené svetlom alebo vyhrievaným zariadením.
-Nie je tomu inak ani v prípade IR senzorov, ktoré sa používajú na lokalizáciu presných obrázkov plameňa z tepla, ktoré vydávajú na dlhších vlnových dĺžkach. Pokročilé infračervené detektory tiež používajú frekvencie blikania plameňa v rozsahu od 3 Hz do 30 Hz na detekciu platných signálov plameňa, okrem iných signálov, ako je teplo z nepretržitých zdrojov. Tieto dvojspektrálne detektory plameňa spájajú technológie IR a UV detekcie do jedného celku. Pretože sú IR a UV senzory integrované, systémy sú presnejšie a majú znížený počet falošných poplachov spôsobených premennými prostredia, ako sú blesky a zváracie oblúky. Nedávno sa tiež použili algoritmy na zabezpečenie toho, aby údaje z UV a IR senzorov inštalovaných v plameňových systémoch boli presne, spoľahlivo spracované a krížovo overené v reálnom čase na detekciu plameňov v rôznych priemyselných odvetviach a komerčných prostrediach.
-Výhody snímačov plameňa:
+##Výhody snímačov plameňa:
 -Rýchla detekcia otvoreného ohňa, často v priebehu milisekúnd
 -Možnosť automatizovaného zásahu (napr. vypnutie prívodu plynu alebo spustenie hasiacich systémov)
 -Vysoká citlivosť na špecifické vlnové dĺžky infračerveného, ultrafialového alebo viditeľného svetla
@@ -25,7 +20,7 @@ Výhody snímačov plameňa:
 -Spoľahlivá prevádzka aj v náročných podmienkach (napr. v priemyselných zariadeniach)
 -Nízka spotreba energie (závisí od typu)
 
-Nevýhody snímačov plameňa:
+## Nevýhody snímačov plameňa:
 -Citlivosť na falošné poplachy spôsobené odrazmi svetla, slnkom alebo žiarivkami
 -Niektoré typy sú menej účinné pri prítomnosti dymu alebo prachu
 -Vyžadujú pravidelnú údržbu a čistenie optických častí
@@ -35,24 +30,19 @@ Nevýhody snímačov plameňa:
 
 
 
-Ako sú v detekčných systémoch minimalizované falošné poplachy
+## Ako sú v detekčných systémoch minimalizované falošné poplachy
 Vysoko pokročilé technológie a inteligentné algoritmy nepochybne výrazne znižujú výskyt falošných poplachov v detekčných systémoch. Dnešné moderné detektory plameňa napríklad používajú kombinované senzory, ktoré dokážu súčasne sledovať viac ako jednu vlnovú dĺžku svetla a hľadajú skutočné požiare a priaznivejšie zdroje žiarenia, ako je slnečné svetlo alebo elektrické iskry. Takéto systémy sú často sprevádzané algoritmami strojového učenia napájanými veľkými objemami údajov a môžu porovnávať charakteristiky skutočného požiaru s tými, ktoré vyvoláva hluk.
 Okrem toho sa kontextová analýza stala nepostrádateľným riešením v tejto snahe dosiahnuť najnižší výskyt falošných poplachov. V tomto prípade senzory integrované s laserovým diaľkomerom berú do úvahy premenné prostredia, ako je izbová teplota, vlhkosť a dokonca aj pohyb, a korelujú tieto informácie s optickými údajmi, aby sa eliminovali neškodné javy. Napríklad dvojspektrálne infračervené (IR) alebo ultrafialové (UV) detektory v spojení s logickými obvodmi sledujú intenzitu a frekvenciu vyžarovanej emisie. Takéto hodnotenia zaisťujú, že náhodné záblesky, ako sú odrazy na kovovom povrchu, nebudú nadmerne zhasínať.
-Správa z odvetvia uvádza, že kombinácia nových technológií znižuje falošné poplachy v systéme až o 80 % v kontrolovanom prostredí, čím sa ďalej zvyšuje efektívnosť operácií. Toto zníženie je napríklad kľúčové v chemických závodoch alebo výrobných systémoch, kde môže byť významný ekonomický a prevádzkový vplyv spôsobený nepredvídanými obdobiami nečinnosti spôsobenými falošnými poplachmi. Okrem toho tento vývoj zlepšuje aj presnosť detekcie a správne funkcie systémov vo všetkých odvetviach.
-Ako sa detektory plameňa porovnávajú s inými zariadeniami na detekciu požiaru?
-Rozdiel medzi detektorom plameňa a detektorom dymu
+## Rozdiel medzi detektorom plameňa a detektorom dymu
 Detektory plameňa a dymu sú kľúčovými prvkami systémov požiarnej signalizácie, ale fungujú na úplne odlišných princípoch a majú rôzne prípady použitia. Detektor plameňa je určený na detekciu ultrafialových (UV) alebo infračervených (IR) vlnových dĺžok, ktoré oheň vytvára počas horenia. Z tohto dôvodu môžu byť otvorené požiare rýchlo detekované pomocou vhodného detektora na slušnú vzdialenosť, čo je prípad priemyselných zariadení, ako sú ropné rafinérie alebo chemické závody, kde sa vyžaduje rýchla detekcia požiaru.
 Na druhej strane detektory dymu snímajú prítomnosť dymu vo vzduchu. Toto sú zvyčajne veľmi skoré príznaky požiaru, kde je viditeľný dym, ale plamene ešte nie sú vonku alebo sú stále do značnej miery neviditeľné. Tieto senzory sú ďalej rozdelené do kategórií ionizačných, fotoelektrických a duálnych senzorov, pričom každý má špecifické výhody. Ionizačné detektory dymu sú najúčinnejšie pre rýchlo horiace požiare, zatiaľ čo fotoelektrické detektory dymu sú vhodné pre pomaly horiace požiare. Podľa štatistík poskytnutých spoločnosťou Ahj sa hlásiče dymu používajú prevažne v domácnostiach a komerčných budovách, pretože dokážu zachytiť širšiu škálu typov požiaru ako väčšina dostupných detektorov.
 Hlavný rozdiel pramení z ich prevádzkového nastavenia a rýchlosti detekcie. Detektory plameňa výrazne prospievajú rýchlej detekcii požiarov s vysokou spotrebou energie, ktorá môže pomôcť odvrátiť život ohrozujúce situácie počas vysoko rizikových priemyselných činností. Na druhej strane sú detektory dymu vhodnejšie pre situácie, keď je potrebné uhasiť tlejúce materiály alebo nízkoteplotné požiare. Zatiaľ čo u detektorov plameňa je menej pravdepodobné, že budú spustené falošnými incidentmi, ako je varenie alebo para, sú dosť obmedzené v rozsahu, kde je základom požiaru dym.
 Obe tieto zariadenia sú kľúčové pri zvyšovaní požiarnej bezpečnosti. Ich nasadenie je diktované vlastnosťami ohrozenia prostredia, vrátane použitia snímačov plameňa. Použitie detektorov plameňa a dymu je za takýchto okolností najlepším riešením, pretože zaisťuje dostatočne široké pokrytie ochrany.
-Použitie senzorových modulov pre všestranné aplikácie
-Funkčnosť senzorových modulov je široká, čo mi umožňuje výrazne pristupovať k rôznym aplikáciám. V závislosti od modulu vám umožňujú sledovať a zisťovať rôzne parametre, ako je teplota, vlhkosť, tlak a koncentrácia plynu. Začlenením týchto senzorov do systémov môžem zostaviť produkty vhodné pre konkrétne požiadavky, ako je typ, uľahčenie bezpečnosti, zvýšenie prevádzkovej funkčnosti alebo dokonca automatizáciu uvedených systémov v rôznych kontextoch. Rozsah, pre ktorý možno tieto moduly použiť, je obrovský a potenciál, ktorý môžu naplniť, je mnohoraký; to z nich robí cenné aktíva na riešenie širokého spektra technických problémov.
-Ceny snímačov plameňa
+## Ceny snímačov plameňa
 /img_2
-"Infračervený senzor plameňa;https://techfun.sk/produkt/infracerveny-senzor-plamena/?currency=EUR" – 1,20€/ks
+"Infračervený senzor plameňa–1,20€/ks;https://techfun.sk/produkt/infracerveny-senzor-plamena/?currency=EUR"
 
 
-
-
-"Snímač plameňa Brahma FC 8/R 18210025;https://allegro.sk/ponuka/snimac-plamena-brahma-fc-8-r-18210025-13044895654?utm_feed=547ce2b2-2e28-4773-9707-58218068540e&utm_source=google&utm_medium=cpc&utm_campaign=SK%3EHome%3EBathroom%3E3P%3EPMAX&ev_campaign_id=21056415819" – 34,58€/ks
 /img_3
+"Snímač plameňa Brahma FC 8/R 18210025–34,58€/ks;https://allegro.sk/ponuka/snimac-plamena-brahma-fc-8-r-18210025-13044895654?utm_feed=547ce2b2-2e28-4773-9707-58218068540e&utm_source=google&utm_medium=cpc&utm_campaign=SK%3EHome%3EBathroom%3E3P%3EPMAX&ev_campaign_id=21056415819"
+

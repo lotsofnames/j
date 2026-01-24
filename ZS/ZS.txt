@@ -1,47 +1,46 @@
 # Zvukové snímače
 Zvukové snímače (iné názvy: akustické senzory alebo mikrofónové snímače) sú zariadenia, ktoré prevádzajú zvukové vlny (mechanické vibrácie vo vzduchu) na elektrický signál. Používajú sa v rôznych oblastiach – od spotrebnej elektroniky (napr. mikrofóny v mobiloch) až po priemyselné aplikácie (napr. detekcia zvukových porúch v strojoch).
-Základný princíp fungovania:
+## Základný princíp fungovania:
 Zvuková vlna narazí na citlivý prvok snímača (napr. membránu), ktorá sa začne pohybovať v dôsledku tlakových zmien vo vzduchu. Tento mechanický pohyb sa následne prevedie na elektrický signál, ktorý je možné ďalej spracovávať, analyzovať alebo zaznamenávať.
-Typy zvukových snímačov:
+## Typy zvukových snímačov:
 1.	Elektretové mikrofóny – využívajú permanentne nabitý elektretový materiál a sú bežné v spotrebnej elektronike. Sú lacné a kompaktné.
-/img
-Obr.1 Elektretový mikrofón
+/img;Obr.1 Elektretový mikrofón
 2.	Kondenzátorové mikrofóny – pracujú na princípe zmeny kapacity medzi dvoma doskami kondenzátora. Sú veľmi citlivé a často sa používajú v profesionálnom zvukovom zázname.
-/img_1
-Obr.2 Kondenzátorový mikrofón
+/img_1;Obr.2 Kondenzátorový mikrofón
 3.	Piezoelektrické snímače – využívajú piezoelektrický jav, pri ktorom sa tlakové zmeny premieňajú priamo na napätie. Používajú sa napr. v senzoroch vibrácií alebo detekcii ultrazvuku.
-/img_2
-Obr.3 Piezolektrický snímač
+/img_2;Obr.3 Piezolektrický snímač
 
 4.	MEMS snímače (Micro-Electro-Mechanical Systems) – ide o moderné mikrosenzory, ktoré sú veľmi malé, spoľahlivé a často integrované do mobilných zariadení.
 
-/img_3
-Obr.4  MEMS snímač
+/img_3;Obr.4  MEMS snímač
 
-Parametre zvukových snímačov:
+## Parametre zvukových snímačov:
 -Citlivosť – schopnosť snímača zachytiť aj slabý zvukový signál.
 -Frekvenčný rozsah – určuje, aké frekvencie snímač dokáže zachytiť.
 -Smerovosť – vyjadruje, z ktorého smeru snímač najlepšie zachytáva zvuk (napr. všesmerové, jednosmerové).
 -Šum a odolnosť voči rušeniu – dôležité najmä v profesionálnych alebo priemyselných aplikáciách.
 
-Využitie:
+## Využitie:
 -Spotrebná elektronika (smartfóny, notebooky, inteligentní asistenti)
 -Bezpečnostné systémy (detekcia rozbitia skla, výkrikov)
 -Priemyselné merania (detekcia porúch podľa zvuku)
 -Mediálne a hudobné nahrávanie
-Výhody zvukových snímačov:
+## Výhody zvukových snímačov:
 -Vysoká citlivosť: Moderné zvukové snímače sú schopné zachytiť aj veľmi tiché zvuky, čo je ideálne pre aplikácie ako nahrávanie hudby, hlasové ovládanie, alebo detekciu vzdialených zvukov.
 -Flexibilita použitia: Môžu byť využívané v rôznych oblastiach ako je audio nahrávanie, komunikácia (telefóny, konferenčné systémy), bezpečnostné aplikácie (detekcia zvukov), alebo v prístrojoch, ako sú asistenčné technológie pre osoby so zdravotným postihnutím.
 -Zaznamenávanie prirodzeného zvuku: Snímače umožňujú veľmi presné zachytenie zvuku v prirodzenom prostredí, čo je užitočné pre produkciu kvalitného zvuku v médiách alebo v monitorovaní prostredia.
 -Kompaktnosť a prenosnosť: Moderné mikrofóny sú čoraz menšie, čo umožňuje ich použitie v prenosných zariadeniach ako mobilné telefóny, notebooky, smart hodinky, atď.
 -Možnosť analýzy zvuku: Zvukové snímače môžu byť použité na analýzu špecifických zvukov a vytváranie rozpoznávacích algoritmov, ako je hlasová biometriia, rozpoznávanie reči alebo analyzovanie frekvenčných charakteristík zvukov.
 
-Nevýhody zvukových snímačov:
+## Nevýhody zvukových snímačov:
 -Citlivosť na šum: Zvukové snímače môžu zachytiť nezamýšľané okolité zvuky (šum), ktoré znižujú kvalitu záznamu. To môže byť problém v hlučnom prostredí alebo pri nahrávaní v exteriéroch.
 -Obmedzený dosah: Mikrofóny majú obmedzený dosah a nemôžu efektívne zachytiť zvuky na veľké vzdialenosti bez použitia špecializovaných zariadení (napr. smerové mikrofóny alebo zosilňovače).
 -Závislosť na kvalite materiálu: Kvalita zvuku môže byť závislá na kvalite použitého mikrofónu. Lacné mikrofóny môžu vytvárať zníženú kvalitu zvuku, ktorá nie je vhodná na profesionálne účely.
 -Závislosť na prostredí: Mikrofóny môžu byť ovplyvnené vlhkosťou, teplotou, alebo prachom, čo môže ovplyvniť ich výkon a dlhodobú spoľahlivosť.
 -Možnosť nežiaduceho odposluchu: V prípade, že sú mikrofóny používané v zariadeniach na nelegálny účel (napr. odposluch), môžu predstavovať bezpečnostné riziko. Mikrofóny môžu byť tiež zneužité na narušenie súkromia.
 -Obmedzená frekvenčná odpoveď: Nie všetky mikrofóny dokážu zachytiť celý rozsah frekvencií, čo môže obmedziť ich použitie v špecifických aplikáciách, ako sú zvukové experimenty alebo profesionálna hudobná produkcia.
-
-
+## Cenové porovnanie:
+/img_4
+"Elektretový mikrofón pre pevné inštalácie JTS CM-503U/B–95€;https://monacor.sk/product/cm-503u-b"
+/img_5
+"Kompaktný veľký membránový kondenzátorový mikrofón IMG ECMS-60 – 115,10€;https://repra.eu/kondenzatorove-mikrofony/kompaktny-velky-membranovy-kondenzatorovy-mikrofon-img-ecms-60"

@@ -2,23 +2,23 @@
 # Kapacitné snímače
 Aktívnym prvkom kapacitného snímača je okrúhla elektróda vo vnútri valcového puzdra, ktoré tvorí druhú elektródu a zároveň plní úlohu tienidla. Tieto dve elektródy spolu tvoria kondenzátor. Priblížením predmetu k čelnej ploche snímača sa mení jeho kapacita. Teda sú bezdotykové, bez spätného pôsobenia a majú elektronický výstup.  Pomocou kapacitných snímačov je možné zisťovať prítomnosť elektricky vodivých ako aj nevodivých materiálov. Väčšinou sú používané ako snímače priblíženia. Tiež sa používajú na snímanie nekovových predmetov, stráženie hladín kvapalín a sypkých hmôt. Vyrábajú sa v prevedení binárnom aj analógovom.
 
-/img,Obr.1 Schematická značka
+/img;Obr.1 Schematická značka
 
 
 Funkčný princíp kapacitného senzoru je zobrazený na obrázkoch:
 
 
-/img_1,Obr.2 Princíp fungovania kapacitných snímačov
+/img_1;Obr.2 Princíp fungovania kapacitných snímačov
 
 
-/img_2,Obr.3 Princíp činnosti
+/img_2;Obr.3 Princíp činnosti
 
 
 Kapacitné snímače sa vyrábajú najčastejšie vo valcovom a kvádrovom prevedení puzdra s aktívnou plochou na jeho čelnej strane. V kvádrovom prevedení môžu mať elektródy snímača umiestnenie a tvar prispôsobené podľa požiadaviek danej aplikácie.
 
 Ukážky kapacitných snímačov sú na nasledujúcich fotografiách:
 
-/img_3,Obr.4 Fotografia kapacitného snímača Obr.5 Fotografie moderného indikátora výšky hladiny
+/img_3;Obr.4 Fotografia kapacitného snímača Obr.5 Fotografie moderného indikátora výšky hladiny
 
 
 
