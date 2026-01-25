@@ -10,7 +10,10 @@ import uuid
 
 st = streamlit
 
-
+def text_size(size:int,slovo:str):
+    if size == None:
+        size = 4
+    return f'<font size="{size}">{slovo}</font>'
 # st.link_button("Indukčné snímače","https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1")
 def main(base, path, download=None, downloadName=None):
     slova = file(path)
@@ -71,8 +74,7 @@ def main(base, path, download=None, downloadName=None):
             )
             st.table(confusion_matrix)
         else:
-            text = f'<font size="3">{slovo}</font>'
-            st.html(text)
+            st.html(text_size(slovo=slovo,size=4))
     if download != None:
         if downloadName != None:
             with open(download, "rb") as f:
