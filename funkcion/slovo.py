@@ -71,7 +71,8 @@ def main(base, path, download=None, downloadName=None):
             )
             st.table(confusion_matrix)
         else:
-            st.write(slovo)
+            text = f'<font size="3">{slovo}</font>'
+            st.html(text)
     if download != None:
         if downloadName != None:
             with open(download, "rb") as f:
