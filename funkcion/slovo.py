@@ -10,7 +10,7 @@ import uuid
 
 st = streamlit
 
-def text_size(size:int,slovo:str):
+def text_size(size:float,slovo:str):
     if size == None:
         size = 4
     return f'<font size="{size}">{slovo}</font>'
