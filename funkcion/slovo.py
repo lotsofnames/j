@@ -74,7 +74,7 @@ def main(base, path, download=None, downloadName=None):
             )
             st.table(confusion_matrix)
         else:
-            st.html(text_size(slovo=slovo,size=4))
+            st.html(text_size(slovo=slovo,size=5))
     if download != None:
         if downloadName != None:
             with open(download, "rb") as f:

@@ -1,34 +1,29 @@
 # Optické snímače
 Snímač ktorý zisťuje prítomnosť resp. neprítomnosť objektu na základe fotoelektrického javu.
 Používajú červené (možno ho rozpoznať voľným okom) a infračervené svetlo.
-/img
-Schematická značka
+/img;obr.1Schematická značka
 Rozlišujeme tri druhy optických približovacích snímačov:
 1.jednocestná svetelná závora (jednocestná optická závora)
 2.reflexná svetelná závora (reflexná optická závora)
 3.reflexné svetelné tlačidlo (reflexný svetelný snímač)
 1.Jednocestná svetelná závora:  pozostáva z navzájom priestorovo oddelenej vysielacej jednotky a prijímacej jednotky. Konštrukčne je usporiadaný tak, že vysielač žiari priamo na prijímač.Ak bude svetelný lúč prerušený, kontakty budú spínané alebo rozpínané.
-/img_1
-Obr.1  Princíp fungovania jednocestnej optickej závory
+/img_1;Obr.2  Princíp fungovania jednocestnej optickej závory
 /img_2
 2.Reflexná svetelná závora: Reflexné optické závory majú vysielač a prijímač usporiadané vedľa seba. Aby boli tieto optické snímače prevádzkyschopné, musí byť reflektor montovaný tak, aby svetelný lúč vyslaný vysielačom bol prakticky celý odrážaný na prijímač.Prerušenie svetelného lúča bude viesť k jeho zopnutiu.
-/img_3
-Obr.2 Princíp fungovania reflexnej svetelnej závory
+/img_3;Obr.3 Princíp fungovania reflexnej svetelnej závory
 /img_4
 3.Reflexné svetelné tlačidlo:Tak ako pri reflexnej optickej závore sú aj pri reflexnom svetelnom snímači vysielač a prijímač usporiadané vedľa seba. Ak bude reflektujúce teleso ožiarené vysielačom, bude prijímač zachytávať odrazené svetlo a bude generovaný spínací signál.Čím väčšia bude pri tom schopnosť vloženého telesa odrážať svetlo, tým presnejšie bude snímač plniť svoju funkciu.
-/img_5
-Obr.3 Princíp fungovania reflexného svetelného tlačidla
-/img_6
+/img_5;Obr.3 Princíp fungovania reflexného svetelného tlačidla
 Výhody optických snímačov spočívajú najmä v ich bezkontaktnom princípe fungovania, čo umožňuje spoľahlivú detekciu bez opotrebenia mechanických častí. Sú veľmi rýchle, reagujú takmer okamžite, a sú vhodné aj pre aplikácie, kde je potrebná vysoká presnosť a citlivosť. Vyznačujú sa tiež dlhou životnosťou, jednoduchou inštaláciou a schopnosťou pracovať v náročných podmienkach, ako sú prašné alebo vlhké prostredia, pokiaľ sú správne navrhnuté. Okrem toho je možné ich použiť na detekciu priehľadných objektov alebo farebných značiek, čo ich robí ideálnymi pre rôzne výrobné linky.
 Nevýhody optických snímačov zahŕňajú citlivosť na vonkajšie svetelné rušenie, najmä v prostredí so silným slnečným žiarením alebo premenlivým osvetlením. V niektorých prípadoch môže dôjsť k nesprávnej detekcii v dôsledku odrazov alebo nečistôt na snímacej ploche. Ich presnosť tiež môže klesnúť pri silnom znečistení alebo pri pokrytí optických prvkov prachom, olejom či parou. V porovnaní s niektorými inými snímačmi môžu byť drahšie, najmä v prípade senzorov s dlhším dosahom alebo špecializovanými funkciami.
 Použitie optických snímačov je veľmi rozmanité. V priemysle sa využívajú na počítanie produktov, kontrolu prítomnosti alebo neprítomnosti objektov, meranie vzdialenosti, ako aj na identifikáciu produktov podľa značiek alebo čiarových kódov. V automobilovom priemysle sa uplatňujú v systémoch automatického osvetlenia, detekcie chodcov alebo asistenčných jazdných systémoch. V oblasti bezpečnostných technológií slúžia na monitorovanie vstupov (napr. fotobunky v automatických dverách) alebo ako súčasť poplachových systémov. Bežne sa nachádzajú aj v kancelárskej technike (napríklad v tlačiarňach), spotrebnej elektronike (mobilné telefóny, robotické vysávače) či zdravotníctve (meranie pulzu a okysličenia krvi pomocou optickej technológie).
-Ceny optických snímačov:
+## Ceny optických snímačov:
 
 /img_7
-"Fotoelektrický snímač, řada: EX-Z 500 mm LED Blok Kabel;https://sk.rsdelivers.com/product/panasonic/ex-z13fb-p/panasonicfotoelektricky-snimac-led-blok-500-mm/1365660?cm_mmc=SK-PLA-DS3A-_-google-_-CSS_SK_EN_Automation_%26_Control_Gear_Whoop-_-(SK:Whoop!)+Photoelectric+Sensors-_-1365660&matchtype=&pla-304258734651=&s_kwcid=AL!14853!3!745487736931!!!g!304258734651!" - 261,32€/ks
+"Fotoelektrický snímač, rada: EX-Z 500 mm LED Blok Kabel-261,32€/ks;https://sk.rsdelivers.com/product/panasonic/ex-z13fb-p/panasonicfotoelektricky-snimac-led-blok-500-mm/1365660?cm_mmc=SK-PLA-DS3A-_-google-_-CSS_SK_EN_Automation_%26_Control_Gear_Whoop-_-(SK:Whoop!)+Photoelectric+Sensors-_-1365660&matchtype=&pla-304258734651=&s_kwcid=AL!14853!3!745487736931!!!g!304258734651!"
 
 /img_8
-"Fotoelektrický snímač, řada: E3F 300 mm LED válcový Zapojený kabel;https://sk.rsdelivers.com/product/omron/e3fc-dp12-2m/omronfotoelektricky-snimac-led-valcovy-300-mm/8160321?cm_mmc=SK-PLA-DS3A-_-google-_-CSS_SK_EN_Automation_%26_Control_Gear_Whoop-_-(SK:Whoop!)+Photoelectric+Sensors-_-8160321&matchtype=&pla-459000631098=&s_kwcid=AL!14853!3!745487736931!!!g!459000631098!"- 120,51€/ks
+"Fotoelektrický snímač, řada: E3F 300 mm LED válcový Zapojený kabel-120,51€/ks;https://sk.rsdelivers.com/product/omron/e3fc-dp12-2m/omronfotoelektricky-snimac-led-valcovy-300-mm/8160321?cm_mmc=SK-PLA-DS3A-_-google-_-CSS_SK_EN_Automation_%26_Control_Gear_Whoop-_-(SK:Whoop!)+Photoelectric+Sensors-_-8160321&matchtype=&pla-459000631098=&s_kwcid=AL!14853!3!745487736931!!!g!459000631098!"
 
 
 
